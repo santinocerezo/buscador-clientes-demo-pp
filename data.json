@@ -1,0 +1,6502 @@
+[
+{
+"place_id": "demo_0000",
+"name": "El Tornillo 96",
+"type": "ferreteria",
+"address": "Av. Pavon 812, Sarandi",
+"phone": "11-3532-1520",
+"lat": -34.6926,
+"lng": -58.3456,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69259982791644,-58.34559953090609"
+},
+{
+"place_id": "demo_0001",
+"name": "Kiosco",
+"type": "kiosco",
+"address": "Iberlucea 3536, Avellaneda",
+"phone": "11-5559-5557",
+"lat": -34.665902,
+"lng": -58.364914,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66590179240314,-58.36491431539035"
+},
+{
+"place_id": "demo_0002",
+"name": "Frutas y Verduras 99",
+"type": "verduleria",
+"address": "San Martin 937, Avellaneda",
+"phone": "11-4489-2584",
+"lat": -34.65823,
+"lng": -58.367556,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65822976968019,-58.36755599173571"
+},
+{
+"place_id": "demo_0003",
+"name": "El Mecanico",
+"type": "taller_mecanico",
+"address": "Av. Pavon 3200, Peatonal",
+"phone": "11-4665-5803",
+"lat": -34.70517,
+"lng": -58.390543,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70517019174907,-58.39054297381381"
+},
+{
+"place_id": "demo_0004",
+"name": "Optica",
+"type": "optica",
+"address": "Av. Hipolito Yrigoyen 475, Sarandi",
+"phone": "11-5891-5741",
+"lat": -34.678833,
+"lng": -58.344214,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.67883277203301,-58.34421383958133"
+},
+{
+"place_id": "demo_0005",
+"name": "La Taza",
+"type": "cafeteria",
+"address": "Fabian Onsari 1432, Avellaneda",
+"phone": "11-6463-4432",
+"lat": -34.655536,
+"lng": -58.366918,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65553626133192,-58.36691798039938"
+},
+{
+"place_id": "demo_0006",
+"name": "Rapido 61",
+"type": "kiosco",
+"address": "Las Heras 2311, Lanus",
+"phone": "11-3324-6313",
+"lat": -34.703036,
+"lng": -58.39792,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70303564189799,-58.397919504332435"
+},
+{
+"place_id": "demo_0007",
+"name": "La Taza del Centro",
+"type": "cafeteria",
+"address": "Av. Hipolito Yrigoyen 1828, Avellaneda",
+"phone": "11-3997-6155",
+"lat": -34.656251,
+"lng": -58.360119,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65625115849589,-58.36011926718766"
+},
+{
+"place_id": "demo_0008",
+"name": "La Tienda 35",
+"type": "tienda_ropa",
+"address": "Av. Las Flores 2120, Lanus",
+"phone": "11-3651-5304",
+"lat": -34.706879,
+"lng": -58.384538,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70687862578091,-58.384538143384674"
+},
+{
+"place_id": "demo_0009",
+"name": "Spa 67",
+"type": "estetica",
+"address": "Alvear 844, Calle",
+"phone": "11-4981-2796",
+"lat": -34.704022,
+"lng": -58.315006,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70402177116397,-58.3150059949486"
+},
+{
+"place_id": "demo_0010",
+"name": "Verduleria Total",
+"type": "verduleria",
+"address": "Mariano Acosta 3934, Calle",
+"phone": "11-3357-1188",
+"lat": -34.660079,
+"lng": -58.368778,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.660079206356365,-58.368778400332005"
+},
+{
+"place_id": "demo_0011",
+"name": "Mundo Juguete Martinez",
+"type": "jugueteria",
+"address": "Sarmiento 1395, Avellaneda",
+"phone": "11-2103-5315",
+"lat": -34.657386,
+"lng": -58.360702,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.657385955206536,-58.360702420277484"
+},
+{
+"place_id": "demo_0012",
+"name": "Verdura Fresca del Centro",
+"type": "verduleria",
+"address": "Pueyrredon 1729, Av.",
+"phone": "11-5482-3646",
+"lat": -34.701908,
+"lng": -58.324723,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70190781990475,-58.324723070126424"
+},
+{
+"place_id": "demo_0013",
+"name": "Step Rodriguez",
+"type": "zapateria",
+"address": "Fabian Onsari 2619, Calle",
+"phone": "11-5159-4946",
+"lat": -34.703815,
+"lng": -58.313011,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70381506505604,-58.3130105541554"
+},
+{
+"place_id": "demo_0014",
+"name": "Kiosquito",
+"type": "kiosco",
+"address": "Av. Las Flores 1151, Calle",
+"phone": "11-2662-3705",
+"lat": -34.712143,
+"lng": -58.31414,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71214346547932,-58.31414009536683"
+},
+{
+"place_id": "demo_0015",
+"name": "Calzados",
+"type": "zapateria",
+"address": "Iberlucea 2653, Lanus",
+"phone": "11-2787-7118",
+"lat": -34.698296,
+"lng": -58.393384,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69829620526046,-58.39338351707639"
+},
+{
+"place_id": "demo_0016",
+"name": "Zapateria del Centro",
+"type": "zapateria",
+"address": "Av. Mitre 1985, Wilde",
+"phone": "11-3325-1117",
+"lat": -34.705776,
+"lng": -58.320034,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70577622173774,-58.32003351018135"
+},
+{
+"place_id": "demo_0017",
+"name": "Ale Diaz",
+"type": "peluqueria",
+"address": "Alsina 2381, Avellaneda",
+"phone": "11-2319-9834",
+"lat": -34.665737,
+"lng": -58.358513,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66573693145902,-58.35851327979191"
+},
+{
+"place_id": "demo_0018",
+"name": "Can y Gato Express",
+"type": "pet_shop",
+"address": "Av. Pavon 894, Calle",
+"phone": "11-2462-7939",
+"lat": -34.662238,
+"lng": -58.37057,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66223788350279,-58.37057002757604"
+},
+{
+"place_id": "demo_0019",
+"name": "Gym Sanchez",
+"type": "gimnasio",
+"address": "San Martin 995, Wilde",
+"phone": "11-5296-4116",
+"lat": -34.699179,
+"lng": -58.323133,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69917861202608,-58.32313326100429"
+},
+{
+"place_id": "demo_0020",
+"name": "Power House 11",
+"type": "gimnasio",
+"address": "Moreno 902, Calle",
+"phone": "11-4767-9856",
+"lat": -34.711598,
+"lng": -58.317165,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71159817702905,-58.31716511964213"
+},
+{
+"place_id": "demo_0021",
+"name": "24hs Total",
+"type": "kiosco",
+"address": "Alvear 1851, Avellaneda",
+"phone": "11-2160-3697",
+"lat": -34.654578,
+"lng": -58.359421,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65457812827187,-58.35942086824937"
+},
+{
+"place_id": "demo_0022",
+"name": "La Espiga del Centro",
+"type": "panaderia",
+"address": "Sarmiento 4086, Wilde",
+"phone": "11-5294-5861",
+"lat": -34.697235,
+"lng": -58.319757,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69723505849952,-58.31975675106925"
+},
+{
+"place_id": "demo_0023",
+"name": "Ale Gonzalez",
+"type": "peluqueria",
+"address": "25 de Mayo 4005, Lanus",
+"phone": "11-3973-9701",
+"lat": -34.703575,
+"lng": -58.39124,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.703574754765306,-58.39124048637527"
+},
+{
+"place_id": "demo_0024",
+"name": "Estilo Torres",
+"type": "peluqueria",
+"address": "Av. Hipolito Yrigoyen 2026, Calle",
+"phone": "11-2222-5033",
+"lat": -34.658392,
+"lng": -58.372199,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65839221096725,-58.37219888534759"
+},
+{
+"place_id": "demo_0025",
+"name": "Anteojos del Centro",
+"type": "optica",
+"address": "25 de Mayo 4382, Calle",
+"phone": "11-6367-4346",
+"lat": -34.712603,
+"lng": -58.31818,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.712602583377105,-58.31818016594505"
+},
+{
+"place_id": "demo_0026",
+"name": "Espresso del Centro",
+"type": "cafeteria",
+"address": "Moreno 2690, Peatonal",
+"phone": "11-4109-8508",
+"lat": -34.707875,
+"lng": -58.395953,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70787508389975,-58.39595297374298"
+},
+{
+"place_id": "demo_0027",
+"name": "Mundo Animal",
+"type": "pet_shop",
+"address": "Colon 1185, Sarandi",
+"phone": "11-6170-5002",
+"lat": -34.677062,
+"lng": -58.348828,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.67706245683432,-58.348827828462404"
+},
+{
+"place_id": "demo_0028",
+"name": "Farmacity local",
+"type": "farmacia",
+"address": "Pueyrredon 164, Wilde",
+"phone": "11-3406-2697",
+"lat": -34.710476,
+"lng": -58.31066,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71047605068228,-58.31066008072577"
+},
+{
+"place_id": "demo_0029",
+"name": "Utiles y Mas 36",
+"type": "libreria",
+"address": "Rivadavia 1825, Calle",
+"phone": "11-6308-5325",
+"lat": -34.666846,
+"lng": -58.37193,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66684571329581,-58.37192964022291"
+},
+{
+"place_id": "demo_0030",
+"name": "Boutique Alvarez",
+"type": "tienda_ropa",
+"address": "Sarmiento 2366, Av.",
+"phone": "11-4103-6464",
+"lat": -34.704987,
+"lng": -58.315102,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70498654497516,-58.315102091445375"
+},
+{
+"place_id": "demo_0031",
+"name": "Escolar",
+"type": "libreria",
+"address": "Av. Mitre 1016, Calle",
+"phone": "11-4807-3442",
+"lat": -34.666384,
+"lng": -58.368582,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66638418023726,-58.368581644881395"
+},
+{
+"place_id": "demo_0032",
+"name": "Estilo Express",
+"type": "peluqueria",
+"address": "Av. Belgrano 2625, Calle",
+"phone": "11-6915-1653",
+"lat": -34.704654,
+"lng": -58.313175,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.704654049801135,-58.3131749043351"
+},
+{
+"place_id": "demo_0033",
+"name": "Bodegon",
+"type": "restaurante",
+"address": "Sarmiento 1366, Peatonal",
+"phone": "11-5985-3662",
+"lat": -34.704543,
+"lng": -58.391665,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70454346649352,-58.39166453271492"
+},
+{
+"place_id": "demo_0034",
+"name": "Belleza Integral Express",
+"type": "estetica",
+"address": "Colon 1404, Calle",
+"phone": "11-4491-1634",
+"lat": -34.667752,
+"lng": -58.365634,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66775213638101,-58.36563435528245"
+},
+{
+"place_id": "demo_0035",
+"name": "Coffee del Centro",
+"type": "cafeteria",
+"address": "Alsina 1926, Av.",
+"phone": "11-4775-4164",
+"lat": -34.705605,
+"lng": -58.314979,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.705605126039686,-58.314978577185244"
+},
+{
+"place_id": "demo_0036",
+"name": "Espuma del Centro",
+"type": "lavanderia",
+"address": "Pueyrredon 3374, Wilde",
+"phone": "11-3439-1452",
+"lat": -34.708542,
+"lng": -58.322889,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70854235102363,-58.3228892679254"
+},
+{
+"place_id": "demo_0037",
+"name": "Papeleria Rodriguez",
+"type": "libreria",
+"address": "Mariano Acosta 3659, Avellaneda",
+"phone": "11-6846-6139",
+"lat": -34.666543,
+"lng": -58.357599,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66654291494124,-58.357599450947816"
+},
+{
+"place_id": "demo_0038",
+"name": "Anteojos del Centro 34",
+"type": "optica",
+"address": "Av. Belgrano 3672, Wilde",
+"phone": "11-4632-9821",
+"lat": -34.697252,
+"lng": -58.32215,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69725222641093,-58.322149667455534"
+},
+{
+"place_id": "demo_0039",
+"name": "AutoFix",
+"type": "taller_mecanico",
+"address": "San Martin 1120, Lanus",
+"phone": "11-6619-6067",
+"lat": -34.706237,
+"lng": -58.38392,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70623664680675,-58.38392025925252"
+},
+{
+"place_id": "demo_0040",
+"name": "Clean 55",
+"type": "lavanderia",
+"address": "Las Heras 1525, Wilde",
+"phone": "11-3682-5930",
+"lat": -34.706562,
+"lng": -58.31927,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70656159380707,-58.31926951675959"
+},
+{
+"place_id": "demo_0041",
+"name": "Jugueteria Plus",
+"type": "jugueteria",
+"address": "Moreno 3719, Wilde",
+"phone": "11-2791-4501",
+"lat": -34.69966,
+"lng": -58.319138,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69966039729113,-58.31913800081171"
+},
+{
+"place_id": "demo_0042",
+"name": "Moda",
+"type": "tienda_ropa",
+"address": "Av. Hipolito Yrigoyen 2424, Av.",
+"phone": "11-3779-6491",
+"lat": -34.698475,
+"lng": -58.314482,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.698475175210724,-58.314482015955804"
+},
+{
+"place_id": "demo_0043",
+"name": "Cafeteria 5",
+"type": "cafeteria",
+"address": "Av. Belgrano 2105, Avellaneda",
+"phone": "11-2725-2193",
+"lat": -34.658635,
+"lng": -58.369406,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65863526927109,-58.36940574934405"
+},
+{
+"place_id": "demo_0044",
+"name": "Cara y Cuerpo Total",
+"type": "estetica",
+"address": "Alsina 1308, Wilde",
+"phone": "11-4868-2746",
+"lat": -34.698822,
+"lng": -58.314789,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69882180945518,-58.314789265609456"
+},
+{
+"place_id": "demo_0045",
+"name": "Mocca Premium",
+"type": "cafeteria",
+"address": "Av. Presidente Peron 2141, Wilde",
+"phone": "11-4567-3184",
+"lat": -34.710186,
+"lng": -58.308673,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71018581309269,-58.30867254332353"
+},
+{
+"place_id": "demo_0046",
+"name": "Step",
+"type": "zapateria",
+"address": "Pueyrredon 3595, Av.",
+"phone": "11-3556-3607",
+"lat": -34.696145,
+"lng": -58.318855,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.6961452905632,-58.31885457217837"
+},
+{
+"place_id": "demo_0047",
+"name": "Fit",
+"type": "gimnasio",
+"address": "Alvear 2059, Av.",
+"phone": "11-6550-2269",
+"lat": -34.70489,
+"lng": -58.323033,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.704889701418416,-58.323033123149884"
+},
+{
+"place_id": "demo_0048",
+"name": "Mocca Fernandez",
+"type": "cafeteria",
+"address": "Av. Las Flores 1994, Lanus",
+"phone": "11-2810-3503",
+"lat": -34.709109,
+"lng": -58.395245,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70910912807252,-58.39524522776846"
+},
+{
+"place_id": "demo_0049",
+"name": "Mini Premium",
+"type": "kiosco",
+"address": "Iberlucea 3541, Lanus",
+"phone": "11-2888-1320",
+"lat": -34.706532,
+"lng": -58.395044,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70653237787383,-58.39504413496132"
+},
+{
+"place_id": "demo_0050",
+"name": "Hogar Total",
+"type": "inmobiliaria",
+"address": "Av. Presidente Peron 1906, Calle",
+"phone": "11-2324-5471",
+"lat": -34.70823,
+"lng": -58.309573,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70823020267442,-58.30957258342566"
+},
+{
+"place_id": "demo_0051",
+"name": "La Tienda",
+"type": "tienda_ropa",
+"address": "Calle 9 de Julio 3928, Wilde",
+"phone": "11-5737-9751",
+"lat": -34.712536,
+"lng": -58.318622,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71253560288085,-58.318621927300825"
+},
+{
+"place_id": "demo_0052",
+"name": "Inmobiliaria",
+"type": "inmobiliaria",
+"address": "Sarmiento 1211, Avellaneda",
+"phone": "11-2286-1823",
+"lat": -34.65993,
+"lng": -58.362392,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65992971558995,-58.362392003890626"
+},
+{
+"place_id": "demo_0053",
+"name": "Hogar Plus",
+"type": "inmobiliaria",
+"address": "Sarmiento 2166, Lanus",
+"phone": "11-4581-1317",
+"lat": -34.708108,
+"lng": -58.392815,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70810765199505,-58.39281541214971"
+},
+{
+"place_id": "demo_0054",
+"name": "Look",
+"type": "peluqueria",
+"address": "Av. Belgrano 354, Calle",
+"phone": "11-5304-1333",
+"lat": -34.703001,
+"lng": -58.3155,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7030009217149,-58.3155003965628"
+},
+{
+"place_id": "demo_0055",
+"name": "Carniceria",
+"type": "carniceria",
+"address": "Iberlucea 3909, Sarandi",
+"phone": "11-6885-7043",
+"lat": -34.689183,
+"lng": -58.342423,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68918328092978,-58.342423023024864"
+},
+{
+"place_id": "demo_0056",
+"name": "Optica 41",
+"type": "optica",
+"address": "Av. Pavon 310, Calle",
+"phone": "11-6689-7149",
+"lat": -34.661928,
+"lng": -58.365521,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66192752506109,-58.36552074348045"
+},
+{
+"place_id": "demo_0057",
+"name": "La Mesa 15",
+"type": "restaurante",
+"address": "Rivadavia 1091, Wilde",
+"phone": "11-3901-1672",
+"lat": -34.711784,
+"lng": -58.31295,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71178405635451,-58.31295016934507"
+},
+{
+"place_id": "demo_0058",
+"name": "Arco Iris",
+"type": "jugueteria",
+"address": "San Martin 203, Peatonal",
+"phone": "11-2942-9031",
+"lat": -34.706573,
+"lng": -58.394035,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.706572975894126,-58.39403543299026"
+},
+{
+"place_id": "demo_0059",
+"name": "Cara y Cuerpo",
+"type": "estetica",
+"address": "Av. Las Flores 3667, Avellaneda",
+"phone": "11-5851-9548",
+"lat": -34.654027,
+"lng": -58.362831,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65402739892457,-58.36283063830238"
+},
+{
+"place_id": "demo_0060",
+"name": "Escolar Total",
+"type": "libreria",
+"address": "25 de Mayo 2298, Sarandi",
+"phone": "11-6972-5022",
+"lat": -34.683145,
+"lng": -58.335286,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68314540233514,-58.33528611748955"
+},
+{
+"place_id": "demo_0061",
+"name": "Escolar",
+"type": "libreria",
+"address": "Mariano Acosta 3204, Avellaneda",
+"phone": "11-6129-9098",
+"lat": -34.655294,
+"lng": -58.369098,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.655293901055956,-58.36909818497295"
+},
+{
+"place_id": "demo_0062",
+"name": "La Huerta del Centro",
+"type": "verduleria",
+"address": "Colon 2363, Peatonal",
+"phone": "11-3110-9464",
+"lat": -34.7061,
+"lng": -58.394161,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.706099600540874,-58.39416140027059"
+},
+{
+"place_id": "demo_0063",
+"name": "Rapido",
+"type": "kiosco",
+"address": "Alvear 4120, Lanus",
+"phone": "11-2911-1282",
+"lat": -34.709656,
+"lng": -58.393684,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70965559109329,-58.39368429375593"
+},
+{
+"place_id": "demo_0064",
+"name": "Farmacity local",
+"type": "farmacia",
+"address": "25 de Mayo 3123, Avellaneda",
+"phone": "11-2666-9698",
+"lat": -34.665854,
+"lng": -58.361931,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66585445759244,-58.36193140551528"
+},
+{
+"place_id": "demo_0065",
+"name": "Belleza Integral",
+"type": "estetica",
+"address": "Moreno 2319, Peatonal",
+"phone": "11-6357-4777",
+"lat": -34.702027,
+"lng": -58.392597,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70202694828833,-58.392596892217945"
+},
+{
+"place_id": "demo_0066",
+"name": "Sabor",
+"type": "restaurante",
+"address": "Calle 9 de Julio 1669, Calle",
+"phone": "11-5856-8933",
+"lat": -34.664845,
+"lng": -58.365571,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66484452055994,-58.365571189363614"
+},
+{
+"place_id": "demo_0067",
+"name": "Mascotas Benitez",
+"type": "pet_shop",
+"address": "Iberlucea 2526, Lanus",
+"phone": "11-5469-3939",
+"lat": -34.696421,
+"lng": -58.391557,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.696421073588105,-58.39155653635605"
+},
+{
+"place_id": "demo_0068",
+"name": "Panaderia Diaz",
+"type": "panaderia",
+"address": "Rivadavia 1134, Lanus",
+"phone": "11-2205-1200",
+"lat": -34.701256,
+"lng": -58.398722,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7012556672572,-58.39872150672274"
+},
+{
+"place_id": "demo_0069",
+"name": "Salud Martinez",
+"type": "farmacia",
+"address": "Alvear 1034, Calle",
+"phone": "11-4510-9056",
+"lat": -34.708306,
+"lng": -58.314595,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.708306030550695,-58.31459531201864"
+},
+{
+"place_id": "demo_0070",
+"name": "Mundo Animal",
+"type": "pet_shop",
+"address": "Rivadavia 797, Avellaneda",
+"phone": "11-5221-7818",
+"lat": -34.659329,
+"lng": -58.372142,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65932886868877,-58.37214225481132"
+},
+{
+"place_id": "demo_0071",
+"name": "Anteojos del Centro Total",
+"type": "optica",
+"address": "Moreno 2535, Sarandi",
+"phone": "11-3539-6003",
+"lat": -34.680348,
+"lng": -58.346389,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68034814672251,-58.346389005806955"
+},
+{
+"place_id": "demo_0072",
+"name": "Optica 82",
+"type": "optica",
+"address": "Iberlucea 2267, Calle",
+"phone": "11-4260-4929",
+"lat": -34.712398,
+"lng": -58.309399,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71239769695627,-58.30939891222566"
+},
+{
+"place_id": "demo_0073",
+"name": "Mundo Juguete",
+"type": "jugueteria",
+"address": "Mariano Acosta 3949, Calle",
+"phone": "11-6133-4792",
+"lat": -34.667249,
+"lng": -58.372973,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.667249351310986,-58.37297324277397"
+},
+{
+"place_id": "demo_0074",
+"name": "Salud del Centro",
+"type": "farmacia",
+"address": "25 de Mayo 1720, Lanus",
+"phone": "11-2217-9922",
+"lat": -34.701346,
+"lng": -58.392827,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70134622395431,-58.392827436124676"
+},
+{
+"place_id": "demo_0075",
+"name": "Carniceria Fernandez",
+"type": "carniceria",
+"address": "Rivadavia 2464, Lanus",
+"phone": "11-2227-8679",
+"lat": -34.697649,
+"lng": -58.386121,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69764859398617,-58.386120639126304"
+},
+{
+"place_id": "demo_0076",
+"name": "Casa y Ciudad Premium",
+"type": "inmobiliaria",
+"address": "Mariano Acosta 426, Lanus",
+"phone": "11-2852-6280",
+"lat": -34.697032,
+"lng": -58.391992,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.697031827666606,-58.39199150081188"
+},
+{
+"place_id": "demo_0077",
+"name": "Utiles y Mas",
+"type": "libreria",
+"address": "Av. Mitre 2307, Sarandi",
+"phone": "11-3141-3870",
+"lat": -34.692586,
+"lng": -58.346337,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69258616172179,-58.34633720934845"
+},
+{
+"place_id": "demo_0078",
+"name": "Calzados",
+"type": "zapateria",
+"address": "Sarmiento 4128, Av.",
+"phone": "11-4581-6700",
+"lat": -34.700182,
+"lng": -58.315007,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70018188612679,-58.31500712654488"
+},
+{
+"place_id": "demo_0079",
+"name": "Clean del Centro",
+"type": "lavanderia",
+"address": "Sarmiento 4158, Wilde",
+"phone": "11-6778-7561",
+"lat": -34.707863,
+"lng": -58.322326,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7078630679047,-58.32232640184668"
+},
+{
+"place_id": "demo_0080",
+"name": "Ale Ruiz",
+"type": "peluqueria",
+"address": "Las Heras 4315, Calle",
+"phone": "11-4773-9889",
+"lat": -34.708452,
+"lng": -58.315855,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70845174091398,-58.3158548284283"
+},
+{
+"place_id": "demo_0081",
+"name": "Cara y Cuerpo",
+"type": "estetica",
+"address": "Moreno 522, Av.",
+"phone": "11-5373-9998",
+"lat": -34.70735,
+"lng": -58.319779,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70734955097548,-58.31977872729047"
+},
+{
+"place_id": "demo_0082",
+"name": "Farmacia Alvarez",
+"type": "farmacia",
+"address": "Mariano Acosta 2060, Calle",
+"phone": "11-5418-1224",
+"lat": -34.663619,
+"lng": -58.366017,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66361883904927,-58.36601749970878"
+},
+{
+"place_id": "demo_0083",
+"name": "Estetica Premium",
+"type": "estetica",
+"address": "Av. Las Flores 4182, Calle",
+"phone": "11-6621-5479",
+"lat": -34.712068,
+"lng": -58.309077,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71206790798718,-58.309077428606045"
+},
+{
+"place_id": "demo_0084",
+"name": "Indumentaria 51",
+"type": "tienda_ropa",
+"address": "Iberlucea 4263, Wilde",
+"phone": "11-5984-2143",
+"lat": -34.697316,
+"lng": -58.3201,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69731608587834,-58.3201003055028"
+},
+{
+"place_id": "demo_0085",
+"name": "Belleza Integral Martinez",
+"type": "estetica",
+"address": "Rivadavia 4111, Lanus",
+"phone": "11-5557-9824",
+"lat": -34.707882,
+"lng": -58.386821,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70788224562394,-58.386821086696244"
+},
+{
+"place_id": "demo_0086",
+"name": "El Mecanico Plus",
+"type": "taller_mecanico",
+"address": "Iberlucea 2056, Av.",
+"phone": "11-3492-4826",
+"lat": -34.704011,
+"lng": -58.316846,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70401072053147,-58.31684552786856"
+},
+{
+"place_id": "demo_0087",
+"name": "Vero Express",
+"type": "peluqueria",
+"address": "Alvear 403, Wilde",
+"phone": "11-5614-6439",
+"lat": -34.707909,
+"lng": -58.316432,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.707909178764254,-58.31643237999616"
+},
+{
+"place_id": "demo_0088",
+"name": "Gym",
+"type": "gimnasio",
+"address": "Av. Las Flores 3458, Avellaneda",
+"phone": "11-5176-8692",
+"lat": -34.667805,
+"lng": -58.358433,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66780461283613,-58.358432933156855"
+},
+{
+"place_id": "demo_0089",
+"name": "Lavanderia del Centro",
+"type": "lavanderia",
+"address": "Av. Presidente Peron 3213, Lanus",
+"phone": "11-6741-8994",
+"lat": -34.702781,
+"lng": -58.393845,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7027813307906,-58.39384530017006"
+},
+{
+"place_id": "demo_0090",
+"name": "Magic 97",
+"type": "peluqueria",
+"address": "Av. Hipolito Yrigoyen 3655, Calle",
+"phone": "11-4878-2646",
+"lat": -34.706825,
+"lng": -58.316652,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.706825405383974,-58.31665229756898"
+},
+{
+"place_id": "demo_0091",
+"name": "Verduleria del Centro",
+"type": "verduleria",
+"address": "Av. Belgrano 2503, Wilde",
+"phone": "11-6483-8056",
+"lat": -34.701896,
+"lng": -58.309545,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7018959813953,-58.3095452150072"
+},
+{
+"place_id": "demo_0092",
+"name": "Havana 23",
+"type": "cafeteria",
+"address": "Calle 9 de Julio 746, Calle",
+"phone": "11-3991-7267",
+"lat": -34.662688,
+"lng": -58.367341,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66268833681851,-58.36734071938084"
+},
+{
+"place_id": "demo_0093",
+"name": "Cafeteria Plus",
+"type": "cafeteria",
+"address": "Moreno 2191, Sarandi",
+"phone": "11-4923-8622",
+"lat": -34.685037,
+"lng": -58.340669,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68503732396211,-58.340669485909565"
+},
+{
+"place_id": "demo_0094",
+"name": "Mundo Juguete",
+"type": "jugueteria",
+"address": "Rivadavia 3575, Lanus",
+"phone": "11-6567-5949",
+"lat": -34.711156,
+"lng": -58.393049,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7111564388027,-58.39304886389513"
+},
+{
+"place_id": "demo_0095",
+"name": "Casa y Ciudad",
+"type": "inmobiliaria",
+"address": "Fabian Onsari 2523, Lanus",
+"phone": "11-6122-7484",
+"lat": -34.69864,
+"lng": -58.39908,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.698639961744114,-58.399080241186404"
+},
+{
+"place_id": "demo_0096",
+"name": "Panaderia",
+"type": "panaderia",
+"address": "Alvear 2444, Lanus",
+"phone": "11-5721-6772",
+"lat": -34.703813,
+"lng": -58.388656,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7038132776948,-58.388655609130794"
+},
+{
+"place_id": "demo_0097",
+"name": "La Mesa",
+"type": "restaurante",
+"address": "Av. Las Flores 895, Lanus",
+"phone": "11-4416-8222",
+"lat": -34.702824,
+"lng": -58.3888,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70282395906365,-58.38880023974478"
+},
+{
+"place_id": "demo_0098",
+"name": "Mascotas del Centro",
+"type": "pet_shop",
+"address": "Sarmiento 1538, Avellaneda",
+"phone": "11-5235-9837",
+"lat": -34.663562,
+"lng": -58.370897,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.663562220271544,-58.370897411097275"
+},
+{
+"place_id": "demo_0099",
+"name": "Calzados del Centro",
+"type": "zapateria",
+"address": "Alvear 2517, Wilde",
+"phone": "11-6923-2886",
+"lat": -34.704971,
+"lng": -58.31964,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70497128380376,-58.3196395623886"
+},
+{
+"place_id": "demo_0100",
+"name": "Express",
+"type": "kiosco",
+"address": "Fabian Onsari 839, Av.",
+"phone": "11-2114-5332",
+"lat": -34.706311,
+"lng": -58.314402,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70631091581993,-58.31440199748645"
+},
+{
+"place_id": "demo_0101",
+"name": "Ferre del Centro",
+"type": "ferreteria",
+"address": "25 de Mayo 3221, Calle",
+"phone": "11-6210-4830",
+"lat": -34.708452,
+"lng": -58.312272,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70845213972266,-58.312271716181264"
+},
+{
+"place_id": "demo_0102",
+"name": "La Flor",
+"type": "panaderia",
+"address": "Alsina 617, Av.",
+"phone": "11-2817-5951",
+"lat": -34.700565,
+"lng": -58.314682,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.700565437595465,-58.3146819703673"
+},
+{
+"place_id": "demo_0103",
+"name": "Estetica del Centro",
+"type": "estetica",
+"address": "Alvear 1051, Sarandi",
+"phone": "11-4340-9807",
+"lat": -34.691133,
+"lng": -58.349274,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69113318501237,-58.34927445102378"
+},
+{
+"place_id": "demo_0104",
+"name": "Casa y Ciudad",
+"type": "inmobiliaria",
+"address": "Av. Las Flores 3498, Calle",
+"phone": "11-4953-9017",
+"lat": -34.663464,
+"lng": -58.366295,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.663463562431104,-58.3662951378115"
+},
+{
+"place_id": "demo_0105",
+"name": "Belleza Integral 58",
+"type": "estetica",
+"address": "Moreno 2034, Sarandi",
+"phone": "11-6201-7018",
+"lat": -34.677975,
+"lng": -58.345524,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.67797515094858,-58.345524157758625"
+},
+{
+"place_id": "demo_0106",
+"name": "Taller Premium",
+"type": "taller_mecanico",
+"address": "Iberlucea 274, Calle",
+"phone": "11-4905-6464",
+"lat": -34.712394,
+"lng": -58.316241,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.712394499108335,-58.31624118559139"
+},
+{
+"place_id": "demo_0107",
+"name": "El Novillo",
+"type": "carniceria",
+"address": "Iberlucea 1869, Lanus",
+"phone": "11-5436-3417",
+"lat": -34.699834,
+"lng": -58.397306,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69983439420042,-58.39730629964743"
+},
+{
+"place_id": "demo_0108",
+"name": "Don",
+"type": "panaderia",
+"address": "Colon 1529, Sarandi",
+"phone": "11-4776-1422",
+"lat": -34.688564,
+"lng": -58.334256,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68856360246439,-58.334255549890436"
+},
+{
+"place_id": "demo_0109",
+"name": "Tradicion del Centro",
+"type": "panaderia",
+"address": "Av. Mitre 1527, Calle",
+"phone": "11-6153-3076",
+"lat": -34.664418,
+"lng": -58.365116,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66441757720783,-58.365115684655464"
+},
+{
+"place_id": "demo_0110",
+"name": "Step del Centro",
+"type": "zapateria",
+"address": "Pueyrredon 993, Wilde",
+"phone": "11-2615-4629",
+"lat": -34.711182,
+"lng": -58.322983,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71118161109141,-58.32298307138965"
+},
+{
+"place_id": "demo_0111",
+"name": "Salon del Centro",
+"type": "peluqueria",
+"address": "Moreno 355, Sarandi",
+"phone": "11-4590-7580",
+"lat": -34.681364,
+"lng": -58.33546,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68136411204538,-58.3354599729935"
+},
+{
+"place_id": "demo_0112",
+"name": "Ferreteria Perez",
+"type": "ferreteria",
+"address": "Mariano Acosta 1315, Wilde",
+"phone": "11-4229-5505",
+"lat": -34.705156,
+"lng": -58.309445,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70515569833369,-58.30944478673416"
+},
+{
+"place_id": "demo_0113",
+"name": "Mascotas Total",
+"type": "pet_shop",
+"address": "Av. Pavon 1037, Sarandi",
+"phone": "11-3838-4522",
+"lat": -34.684226,
+"lng": -58.344797,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.684226297055226,-58.3447970329069"
+},
+{
+"place_id": "demo_0114",
+"name": "Power House Total",
+"type": "gimnasio",
+"address": "Av. Pavon 2660, Wilde",
+"phone": "11-2420-5176",
+"lat": -34.698791,
+"lng": -58.317379,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69879054364818,-58.31737898286117"
+},
+{
+"place_id": "demo_0115",
+"name": "Carniceria Rodriguez",
+"type": "carniceria",
+"address": "Sarmiento 891, Wilde",
+"phone": "11-6931-3131",
+"lat": -34.702011,
+"lng": -58.316412,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70201086343253,-58.316411713830576"
+},
+{
+"place_id": "demo_0116",
+"name": "Ale",
+"type": "peluqueria",
+"address": "Av. Pavon 3465, Calle",
+"phone": "11-6994-7929",
+"lat": -34.707135,
+"lng": -58.313384,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7071353491726,-58.313384135860076"
+},
+{
+"place_id": "demo_0117",
+"name": "Salud 86",
+"type": "farmacia",
+"address": "Alvear 1937, Avellaneda",
+"phone": "11-4458-7022",
+"lat": -34.659793,
+"lng": -58.367374,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.659793438540405,-58.367373661028914"
+},
+{
+"place_id": "demo_0118",
+"name": "Utiles y Mas",
+"type": "libreria",
+"address": "Mariano Acosta 315, Avellaneda",
+"phone": "11-3773-5381",
+"lat": -34.660214,
+"lng": -58.360084,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.660214399930695,-58.360084458061564"
+},
+{
+"place_id": "demo_0119",
+"name": "La Huerta del Centro",
+"type": "verduleria",
+"address": "Av. Mitre 1586, Avellaneda",
+"phone": "11-5679-7566",
+"lat": -34.665028,
+"lng": -58.360801,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.6650276737806,-58.360801447712305"
+},
+{
+"place_id": "demo_0120",
+"name": "Carniceria",
+"type": "carniceria",
+"address": "Pueyrredon 1862, Avellaneda",
+"phone": "11-2529-8432",
+"lat": -34.657544,
+"lng": -58.357451,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.657544495054104,-58.357451034899874"
+},
+{
+"place_id": "demo_0121",
+"name": "Frutera",
+"type": "verduleria",
+"address": "Av. Hipolito Yrigoyen 530, Peatonal",
+"phone": "11-5261-1815",
+"lat": -34.70704,
+"lng": -58.391227,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70703957526019,-58.39122723225806"
+},
+{
+"place_id": "demo_0122",
+"name": "Utiles y Mas Total",
+"type": "libreria",
+"address": "Colon 1865, Avellaneda",
+"phone": "11-3216-6655",
+"lat": -34.66231,
+"lng": -58.366216,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.662310192410715,-58.366215763630194"
+},
+{
+"place_id": "demo_0123",
+"name": "Herramientas",
+"type": "ferreteria",
+"address": "Rivadavia 472, Wilde",
+"phone": "11-5504-1897",
+"lat": -34.708468,
+"lng": -58.313144,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70846805647871,-58.31314421992384"
+},
+{
+"place_id": "demo_0124",
+"name": "Parrilla del Centro",
+"type": "restaurante",
+"address": "Rivadavia 2787, Avellaneda",
+"phone": "11-4107-9149",
+"lat": -34.664577,
+"lng": -58.36962,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.6645772902077,-58.369620256332475"
+},
+{
+"place_id": "demo_0125",
+"name": "Frutas y Verduras",
+"type": "verduleria",
+"address": "Av. Presidente Peron 3001, Wilde",
+"phone": "11-4506-1693",
+"lat": -34.710933,
+"lng": -58.315479,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71093302877185,-58.315478682434126"
+},
+{
+"place_id": "demo_0126",
+"name": "La Flor",
+"type": "panaderia",
+"address": "Sarmiento 3413, Wilde",
+"phone": "11-2396-2887",
+"lat": -34.705644,
+"lng": -58.322754,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.705643931994295,-58.32275419820999"
+},
+{
+"place_id": "demo_0127",
+"name": "Tradicion Plus",
+"type": "panaderia",
+"address": "Av. Hipolito Yrigoyen 3677, Wilde",
+"phone": "11-4349-8138",
+"lat": -34.697541,
+"lng": -58.32125,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.697540804943465,-58.32125002911075"
+},
+{
+"place_id": "demo_0128",
+"name": "Hogar",
+"type": "inmobiliaria",
+"address": "San Martin 1915, Sarandi",
+"phone": "11-6897-3754",
+"lat": -34.684617,
+"lng": -58.343668,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.684616599311994,-58.34366773285025"
+},
+{
+"place_id": "demo_0129",
+"name": "Calzados del Centro",
+"type": "zapateria",
+"address": "Fabian Onsari 1309, Avellaneda",
+"phone": "11-5205-3399",
+"lat": -34.659268,
+"lng": -58.36451,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65926840532851,-58.36451032286764"
+},
+{
+"place_id": "demo_0130",
+"name": "Sabor",
+"type": "restaurante",
+"address": "Av. Hipolito Yrigoyen 1551, Lanus",
+"phone": "11-2575-8354",
+"lat": -34.710877,
+"lng": -58.398248,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71087701759604,-58.398248343797896"
+},
+{
+"place_id": "demo_0131",
+"name": "Vision 58",
+"type": "optica",
+"address": "Av. Hipolito Yrigoyen 3941, Calle",
+"phone": "11-2746-5961",
+"lat": -34.709768,
+"lng": -58.30929,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70976791758356,-58.309290269357916"
+},
+{
+"place_id": "demo_0132",
+"name": "Mascotas Total",
+"type": "pet_shop",
+"address": "Av. Belgrano 566, Lanus",
+"phone": "11-6951-5703",
+"lat": -34.712989,
+"lng": -58.391868,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71298890183616,-58.391867936064784"
+},
+{
+"place_id": "demo_0133",
+"name": "Mini",
+"type": "kiosco",
+"address": "Av. Presidente Peron 436, Avellaneda",
+"phone": "11-2929-4084",
+"lat": -34.65956,
+"lng": -58.364887,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.659559865785354,-58.36488691492266"
+},
+{
+"place_id": "demo_0134",
+"name": "Optica Premium",
+"type": "optica",
+"address": "San Martin 790, Peatonal",
+"phone": "11-3761-3827",
+"lat": -34.706195,
+"lng": -58.395793,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70619496777646,-58.39579311138644"
+},
+{
+"place_id": "demo_0135",
+"name": "Mocca",
+"type": "cafeteria",
+"address": "Mariano Acosta 1400, Avellaneda",
+"phone": "11-6481-5634",
+"lat": -34.658078,
+"lng": -58.357144,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65807805273083,-58.357144223637654"
+},
+{
+"place_id": "demo_0136",
+"name": "Estetica",
+"type": "estetica",
+"address": "San Martin 639, Wilde",
+"phone": "11-6196-7333",
+"lat": -34.700609,
+"lng": -58.313138,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70060856338282,-58.31313763647105"
+},
+{
+"place_id": "demo_0137",
+"name": "Utiles y Mas 44",
+"type": "libreria",
+"address": "Av. Hipolito Yrigoyen 1258, Lanus",
+"phone": "11-6417-7421",
+"lat": -34.700973,
+"lng": -58.389182,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70097279420995,-58.389181846444615"
+},
+{
+"place_id": "demo_0138",
+"name": "Anteojos del Centro Plus",
+"type": "optica",
+"address": "Av. Las Flores 4412, Calle",
+"phone": "11-4761-7937",
+"lat": -34.660912,
+"lng": -58.372153,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66091165985629,-58.372152809879964"
+},
+{
+"place_id": "demo_0139",
+"name": "Mecanica del Centro",
+"type": "taller_mecanico",
+"address": "Alvear 1672, Av.",
+"phone": "11-5240-3538",
+"lat": -34.707781,
+"lng": -58.322294,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7077812335465,-58.32229360715923"
+},
+{
+"place_id": "demo_0140",
+"name": "Farmacia",
+"type": "farmacia",
+"address": "San Martin 1173, Avellaneda",
+"phone": "11-3485-3527",
+"lat": -34.655889,
+"lng": -58.371382,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.655889145781025,-58.371381747781314"
+},
+{
+"place_id": "demo_0141",
+"name": "Frutas y Verduras",
+"type": "verduleria",
+"address": "Moreno 457, Calle",
+"phone": "11-2473-4891",
+"lat": -34.659687,
+"lng": -58.365289,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.659686549433104,-58.365289021862694"
+},
+{
+"place_id": "demo_0142",
+"name": "Vision 70",
+"type": "optica",
+"address": "Alsina 2635, Wilde",
+"phone": "11-2955-4178",
+"lat": -34.708441,
+"lng": -58.312023,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70844115307899,-58.31202341571048"
+},
+{
+"place_id": "demo_0143",
+"name": "Mascotas Total",
+"type": "pet_shop",
+"address": "Calle 9 de Julio 1735, Wilde",
+"phone": "11-3241-5096",
+"lat": -34.697249,
+"lng": -58.316613,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.697248963303494,-58.31661312034495"
+},
+{
+"place_id": "demo_0144",
+"name": "Boutique",
+"type": "tienda_ropa",
+"address": "Pueyrredon 1121, Avellaneda",
+"phone": "11-6185-3626",
+"lat": -34.655414,
+"lng": -58.364127,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.655414128879166,-58.36412734807321"
+},
+{
+"place_id": "demo_0145",
+"name": "Power House Silva",
+"type": "gimnasio",
+"address": "Alsina 3795, Lanus",
+"phone": "11-6127-7797",
+"lat": -34.697704,
+"lng": -58.398348,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69770448823839,-58.398347724192156"
+},
+{
+"place_id": "demo_0146",
+"name": "Inmobiliaria del Centro",
+"type": "inmobiliaria",
+"address": "Alsina 330, Avellaneda",
+"phone": "11-6201-6493",
+"lat": -34.661368,
+"lng": -58.369228,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66136788616491,-58.36922755081819"
+},
+{
+"place_id": "demo_0147",
+"name": "Don Tito",
+"type": "carniceria",
+"address": "Av. Las Flores 3942, Calle",
+"phone": "11-2730-1086",
+"lat": -34.667617,
+"lng": -58.363826,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66761696808883,-58.363826038283875"
+},
+{
+"place_id": "demo_0148",
+"name": "La Nueva",
+"type": "panaderia",
+"address": "Mariano Acosta 4423, Avellaneda",
+"phone": "11-2213-5720",
+"lat": -34.665305,
+"lng": -58.359641,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.665305217145004,-58.35964059041149"
+},
+{
+"place_id": "demo_0149",
+"name": "La Farmacia del barrio Rodriguez",
+"type": "farmacia",
+"address": "Alvear 4491, Lanus",
+"phone": "11-4747-9443",
+"lat": -34.711807,
+"lng": -58.396708,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71180672978714,-58.39670808893773"
+},
+{
+"place_id": "demo_0150",
+"name": "Cafe",
+"type": "cafeteria",
+"address": "Fabian Onsari 2070, Calle",
+"phone": "11-3526-4068",
+"lat": -34.705815,
+"lng": -58.316087,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.705814556722075,-58.31608728012225"
+},
+{
+"place_id": "demo_0151",
+"name": "Zapateria Total",
+"type": "zapateria",
+"address": "Av. Belgrano 3269, Avellaneda",
+"phone": "11-6359-1266",
+"lat": -34.653806,
+"lng": -58.371917,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.653805528144765,-58.37191713083346"
+},
+{
+"place_id": "demo_0152",
+"name": "Kiosquito",
+"type": "kiosco",
+"address": "San Martin 1192, Peatonal",
+"phone": "11-4460-9945",
+"lat": -34.707242,
+"lng": -58.391136,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7072415800547,-58.391136471828396"
+},
+{
+"place_id": "demo_0153",
+"name": "Verdura Fresca Express",
+"type": "verduleria",
+"address": "Av. Las Flores 616, Peatonal",
+"phone": "11-2137-5807",
+"lat": -34.703357,
+"lng": -58.391523,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7033569307459,-58.39152253946873"
+},
+{
+"place_id": "demo_0154",
+"name": "Ale del Centro",
+"type": "peluqueria",
+"address": "Pueyrredon 3362, Lanus",
+"phone": "11-3584-5150",
+"lat": -34.69976,
+"lng": -58.385056,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.699760034161876,-58.38505577305888"
+},
+{
+"place_id": "demo_0155",
+"name": "Resto",
+"type": "restaurante",
+"address": "San Martin 2338, Avellaneda",
+"phone": "11-4918-7029",
+"lat": -34.664822,
+"lng": -58.359206,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66482222567117,-58.35920578351249"
+},
+{
+"place_id": "demo_0156",
+"name": "Casa y Ciudad del Centro",
+"type": "inmobiliaria",
+"address": "Calle 9 de Julio 4164, Wilde",
+"phone": "11-2476-9507",
+"lat": -34.701107,
+"lng": -58.309686,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.701107076711686,-58.30968580008072"
+},
+{
+"place_id": "demo_0157",
+"name": "24hs",
+"type": "kiosco",
+"address": "Rivadavia 2731, Lanus",
+"phone": "11-4181-6372",
+"lat": -34.700913,
+"lng": -58.399579,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70091253616183,-58.399579313891"
+},
+{
+"place_id": "demo_0158",
+"name": "La Farmacia del barrio 90",
+"type": "farmacia",
+"address": "Moreno 2979, Sarandi",
+"phone": "11-2143-6776",
+"lat": -34.688096,
+"lng": -58.340358,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68809606630255,-58.34035805395631"
+},
+{
+"place_id": "demo_0159",
+"name": "Estetica Alvarez",
+"type": "estetica",
+"address": "Las Heras 3076, Sarandi",
+"phone": "11-3920-3621",
+"lat": -34.688607,
+"lng": -58.33432,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.688607114238806,-58.33431956353289"
+},
+{
+"place_id": "demo_0160",
+"name": "Don Tito Fernandez",
+"type": "carniceria",
+"address": "Av. Hipolito Yrigoyen 2033, Avellaneda",
+"phone": "11-6470-7272",
+"lat": -34.655821,
+"lng": -58.362151,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.655821291040475,-58.36215057804807"
+},
+{
+"place_id": "demo_0161",
+"name": "Ale del Centro",
+"type": "peluqueria",
+"address": "Moreno 729, Calle",
+"phone": "11-3240-9674",
+"lat": -34.706949,
+"lng": -58.312209,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70694905171145,-58.31220937943087"
+},
+{
+"place_id": "demo_0162",
+"name": "Inmobiliaria Gomez",
+"type": "inmobiliaria",
+"address": "Calle 9 de Julio 4188, Wilde",
+"phone": "11-3496-2929",
+"lat": -34.70797,
+"lng": -58.319541,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70796983293896,-58.31954096373921"
+},
+{
+"place_id": "demo_0163",
+"name": "Utiles y Mas del Centro",
+"type": "libreria",
+"address": "Alvear 1739, Lanus",
+"phone": "11-4238-2213",
+"lat": -34.701327,
+"lng": -58.397138,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.701327319398274,-58.39713773234238"
+},
+{
+"place_id": "demo_0164",
+"name": "Verduleria",
+"type": "verduleria",
+"address": "San Martin 2946, Wilde",
+"phone": "11-4663-9882",
+"lat": -34.698621,
+"lng": -58.316878,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.698621135507416,-58.316878220916124"
+},
+{
+"place_id": "demo_0165",
+"name": "Salud del Centro",
+"type": "farmacia",
+"address": "Pueyrredon 1936, Lanus",
+"phone": "11-4305-3275",
+"lat": -34.698675,
+"lng": -58.388187,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69867548308644,-58.38818743612787"
+},
+{
+"place_id": "demo_0166",
+"name": "Outlet Express",
+"type": "tienda_ropa",
+"address": "Mariano Acosta 806, Lanus",
+"phone": "11-4416-7523",
+"lat": -34.713527,
+"lng": -58.391028,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.713526887517446,-58.39102761412933"
+},
+{
+"place_id": "demo_0167",
+"name": "Zapateria 42",
+"type": "zapateria",
+"address": "Av. Hipolito Yrigoyen 3786, Av.",
+"phone": "11-2796-9476",
+"lat": -34.70307,
+"lng": -58.321087,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70307045855201,-58.321086797670425"
+},
+{
+"place_id": "demo_0168",
+"name": "Angus",
+"type": "carniceria",
+"address": "Calle 9 de Julio 1157, Peatonal",
+"phone": "11-2614-1907",
+"lat": -34.702976,
+"lng": -58.390758,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7029763187868,-58.3907578965693"
+},
+{
+"place_id": "demo_0169",
+"name": "El Pie",
+"type": "zapateria",
+"address": "Alsina 2934, Calle",
+"phone": "11-3390-2292",
+"lat": -34.66647,
+"lng": -58.371353,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.666469845331896,-58.3713534292011"
+},
+{
+"place_id": "demo_0170",
+"name": "Parrilla",
+"type": "restaurante",
+"address": "Rivadavia 4470, Lanus",
+"phone": "11-4614-3762",
+"lat": -34.702569,
+"lng": -58.391085,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70256897235502,-58.39108485452131"
+},
+{
+"place_id": "demo_0171",
+"name": "Mascotas",
+"type": "pet_shop",
+"address": "Av. Belgrano 332, Sarandi",
+"phone": "11-4146-5336",
+"lat": -34.690533,
+"lng": -58.33946,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69053289172993,-58.33946027402586"
+},
+{
+"place_id": "demo_0172",
+"name": "La Mesa Romero",
+"type": "restaurante",
+"address": "Av. Presidente Peron 2472, Sarandi",
+"phone": "11-6594-5012",
+"lat": -34.680729,
+"lng": -58.343335,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68072865598534,-58.34333461146139"
+},
+{
+"place_id": "demo_0173",
+"name": "Salud Total",
+"type": "farmacia",
+"address": "Alvear 3904, Wilde",
+"phone": "11-5448-3353",
+"lat": -34.705743,
+"lng": -58.312982,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.705743293872715,-58.31298218285323"
+},
+{
+"place_id": "demo_0174",
+"name": "Burbuja 99",
+"type": "lavanderia",
+"address": "Fabian Onsari 4318, Peatonal",
+"phone": "11-3208-6228",
+"lat": -34.704126,
+"lng": -58.390114,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70412640196157,-58.390113781073964"
+},
+{
+"place_id": "demo_0175",
+"name": "Gimnasio Gonzalez",
+"type": "gimnasio",
+"address": "Rivadavia 3246, Lanus",
+"phone": "11-3528-5067",
+"lat": -34.711795,
+"lng": -58.392907,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.711794605636484,-58.39290727178408"
+},
+{
+"place_id": "demo_0176",
+"name": "Clean 65",
+"type": "lavanderia",
+"address": "Pueyrredon 3924, Calle",
+"phone": "11-2415-9148",
+"lat": -34.658662,
+"lng": -58.365789,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.6586624846475,-58.36578871571178"
+},
+{
+"place_id": "demo_0177",
+"name": "Rapido 76",
+"type": "kiosco",
+"address": "Fabian Onsari 498, Avellaneda",
+"phone": "11-4388-9108",
+"lat": -34.654276,
+"lng": -58.364913,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65427627513489,-58.36491288859162"
+},
+{
+"place_id": "demo_0178",
+"name": "Boutique Express",
+"type": "tienda_ropa",
+"address": "Colon 3096, Sarandi",
+"phone": "11-2474-1741",
+"lat": -34.688428,
+"lng": -58.349869,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68842802589695,-58.34986916150484"
+},
+{
+"place_id": "demo_0179",
+"name": "Salon del Centro",
+"type": "peluqueria",
+"address": "Av. Hipolito Yrigoyen 3264, Wilde",
+"phone": "11-3561-5582",
+"lat": -34.703875,
+"lng": -58.320886,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7038754936979,-58.3208855151698"
+},
+{
+"place_id": "demo_0180",
+"name": "Vision del Centro",
+"type": "optica",
+"address": "San Martin 3095, Sarandi",
+"phone": "11-5303-9341",
+"lat": -34.691099,
+"lng": -58.334399,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69109902368442,-58.33439867495338"
+},
+{
+"place_id": "demo_0181",
+"name": "El Pie Total",
+"type": "zapateria",
+"address": "Av. Las Flores 4323, Wilde",
+"phone": "11-5435-6218",
+"lat": -34.712356,
+"lng": -58.323377,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71235592150148,-58.323377376540066"
+},
+{
+"place_id": "demo_0182",
+"name": "Hogar",
+"type": "inmobiliaria",
+"address": "San Martin 4255, Calle",
+"phone": "11-3645-9025",
+"lat": -34.658094,
+"lng": -58.365607,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65809384262438,-58.36560680639427"
+},
+{
+"place_id": "demo_0183",
+"name": "Farmacity local",
+"type": "farmacia",
+"address": "Av. Pavon 3512, Calle",
+"phone": "11-3415-1436",
+"lat": -34.708251,
+"lng": -58.318834,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70825107400002,-58.31883363044498"
+},
+{
+"place_id": "demo_0184",
+"name": "Indumentaria",
+"type": "tienda_ropa",
+"address": "Alsina 520, Sarandi",
+"phone": "11-3591-3793",
+"lat": -34.688752,
+"lng": -58.339511,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68875151300823,-58.33951054444517"
+},
+{
+"place_id": "demo_0185",
+"name": "Anteojos del Centro 6",
+"type": "optica",
+"address": "25 de Mayo 1000, Av.",
+"phone": "11-5119-8225",
+"lat": -34.698705,
+"lng": -58.321438,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.698704726441996,-58.321437715964215"
+},
+{
+"place_id": "demo_0186",
+"name": "Cara y Cuerpo",
+"type": "estetica",
+"address": "Mariano Acosta 3963, Peatonal",
+"phone": "11-4822-3262",
+"lat": -34.708789,
+"lng": -58.391476,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70878854993505,-58.39147599791265"
+},
+{
+"place_id": "demo_0187",
+"name": "Cantina",
+"type": "restaurante",
+"address": "Las Heras 2670, Av.",
+"phone": "11-5570-9734",
+"lat": -34.701269,
+"lng": -58.314023,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70126935872509,-58.314022525579134"
+},
+{
+"place_id": "demo_0188",
+"name": "Arco Iris",
+"type": "jugueteria",
+"address": "Colon 4066, Peatonal",
+"phone": "11-5352-5571",
+"lat": -34.707166,
+"lng": -58.390824,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70716570409085,-58.39082408172681"
+},
+{
+"place_id": "demo_0189",
+"name": "Farmacity local del Centro",
+"type": "farmacia",
+"address": "Iberlucea 4105, Calle",
+"phone": "11-6591-6714",
+"lat": -34.710751,
+"lng": -58.309271,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.710751329620074,-58.3092708937241"
+},
+{
+"place_id": "demo_0190",
+"name": "Utiles y Mas Total",
+"type": "libreria",
+"address": "Fabian Onsari 1299, Calle",
+"phone": "11-6143-5712",
+"lat": -34.710122,
+"lng": -58.313265,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71012210624502,-58.31326523196126"
+},
+{
+"place_id": "demo_0191",
+"name": "El Mecanico 27",
+"type": "taller_mecanico",
+"address": "Av. Presidente Peron 2321, Avellaneda",
+"phone": "11-3812-5450",
+"lat": -34.654616,
+"lng": -58.362504,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.654615845889765,-58.362504447191185"
+},
+{
+"place_id": "demo_0192",
+"name": "El Tornillo Alvarez",
+"type": "ferreteria",
+"address": "Pueyrredon 1948, Calle",
+"phone": "11-5153-2641",
+"lat": -34.661843,
+"lng": -58.367132,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66184322965585,-58.367131695014294"
+},
+{
+"place_id": "demo_0193",
+"name": "Clean Diaz",
+"type": "lavanderia",
+"address": "Calle 9 de Julio 3433, Wilde",
+"phone": "11-2588-4267",
+"lat": -34.701522,
+"lng": -58.322391,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.701522271099996,-58.322391281523565"
+},
+{
+"place_id": "demo_0194",
+"name": "Lavanderia",
+"type": "lavanderia",
+"address": "25 de Mayo 2002, Lanus",
+"phone": "11-3856-1611",
+"lat": -34.708863,
+"lng": -58.399935,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70886252385656,-58.39993507344766"
+},
+{
+"place_id": "demo_0195",
+"name": "Estetica Total",
+"type": "estetica",
+"address": "Calle 9 de Julio 2471, Calle",
+"phone": "11-4109-5888",
+"lat": -34.659178,
+"lng": -58.371242,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.659177550268346,-58.37124211292461"
+},
+{
+"place_id": "demo_0196",
+"name": "Vision Total",
+"type": "optica",
+"address": "Av. Las Flores 4230, Calle",
+"phone": "11-2379-4159",
+"lat": -34.711927,
+"lng": -58.30917,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71192699309226,-58.30917006111629"
+},
+{
+"place_id": "demo_0197",
+"name": "Espuma",
+"type": "lavanderia",
+"address": "Calle 9 de Julio 215, Avellaneda",
+"phone": "11-6909-5833",
+"lat": -34.6668,
+"lng": -58.365657,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66680009179937,-58.36565736846348"
+},
+{
+"place_id": "demo_0198",
+"name": "Cantina Plus",
+"type": "restaurante",
+"address": "Av. Hipolito Yrigoyen 3383, Calle",
+"phone": "11-4289-3303",
+"lat": -34.711245,
+"lng": -58.310439,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71124505086161,-58.310438534957264"
+},
+{
+"place_id": "demo_0199",
+"name": "Burbuja 59",
+"type": "lavanderia",
+"address": "Colon 2800, Av.",
+"phone": "11-6696-1187",
+"lat": -34.69677,
+"lng": -58.325918,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69677009535598,-58.325918038553525"
+},
+{
+"place_id": "demo_0200",
+"name": "Taller Plus",
+"type": "taller_mecanico",
+"address": "Calle 9 de Julio 3421, Lanus",
+"phone": "11-3820-6095",
+"lat": -34.70153,
+"lng": -58.399882,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70153016537239,-58.39988176202759"
+},
+{
+"place_id": "demo_0201",
+"name": "Salud Express",
+"type": "farmacia",
+"address": "Moreno 3160, Calle",
+"phone": "11-2818-9998",
+"lat": -34.664325,
+"lng": -58.370792,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66432456096898,-58.370791507600316"
+},
+{
+"place_id": "demo_0202",
+"name": "Jugueteria",
+"type": "jugueteria",
+"address": "Mariano Acosta 770, Av.",
+"phone": "11-3557-9653",
+"lat": -34.698376,
+"lng": -58.316093,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69837606009864,-58.316092757890964"
+},
+{
+"place_id": "demo_0203",
+"name": "Rapido",
+"type": "kiosco",
+"address": "Av. Presidente Peron 1327, Wilde",
+"phone": "11-5435-9525",
+"lat": -34.698324,
+"lng": -58.322205,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.6983240846915,-58.322204659335405"
+},
+{
+"place_id": "demo_0204",
+"name": "Herramientas Silva",
+"type": "ferreteria",
+"address": "Pueyrredon 3749, Wilde",
+"phone": "11-4564-3161",
+"lat": -34.702115,
+"lng": -58.312529,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70211527619297,-58.31252931254111"
+},
+{
+"place_id": "demo_0205",
+"name": "Cara y Cuerpo",
+"type": "estetica",
+"address": "Rivadavia 278, Av.",
+"phone": "11-2360-1049",
+"lat": -34.702518,
+"lng": -58.325307,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.702518418291454,-58.32530715862881"
+},
+{
+"place_id": "demo_0206",
+"name": "Pet Shop",
+"type": "pet_shop",
+"address": "Av. Belgrano 665, Lanus",
+"phone": "11-2132-5703",
+"lat": -34.712685,
+"lng": -58.393373,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71268546853352,-58.39337344707399"
+},
+{
+"place_id": "demo_0207",
+"name": "Verdura Fresca",
+"type": "verduleria",
+"address": "Sarmiento 3167, Wilde",
+"phone": "11-2559-7184",
+"lat": -34.700696,
+"lng": -58.311747,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70069644699866,-58.31174675707322"
+},
+{
+"place_id": "demo_0208",
+"name": "24hs",
+"type": "kiosco",
+"address": "Fabian Onsari 1071, Wilde",
+"phone": "11-5650-7439",
+"lat": -34.702076,
+"lng": -58.313411,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70207631433438,-58.31341131938999"
+},
+{
+"place_id": "demo_0209",
+"name": "Carniceria Martinez",
+"type": "carniceria",
+"address": "Moreno 3574, Av.",
+"phone": "11-3488-4762",
+"lat": -34.699266,
+"lng": -58.323328,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69926570230913,-58.323327717408404"
+},
+{
+"place_id": "demo_0210",
+"name": "Gym Ruiz",
+"type": "gimnasio",
+"address": "Sarmiento 228, Lanus",
+"phone": "11-5311-2102",
+"lat": -34.707769,
+"lng": -58.396038,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70776912477022,-58.39603830489969"
+},
+{
+"place_id": "demo_0211",
+"name": "Anteojos del Centro Lopez",
+"type": "optica",
+"address": "Av. Belgrano 3395, Avellaneda",
+"phone": "11-2339-9843",
+"lat": -34.668863,
+"lng": -58.363435,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66886277958793,-58.3634354416523"
+},
+{
+"place_id": "demo_0212",
+"name": "Glam",
+"type": "peluqueria",
+"address": "25 de Mayo 2712, Lanus",
+"phone": "11-3712-6253",
+"lat": -34.711478,
+"lng": -58.383117,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71147755964793,-58.38311729805763"
+},
+{
+"place_id": "demo_0213",
+"name": "Salud Plus",
+"type": "farmacia",
+"address": "Colon 599, Lanus",
+"phone": "11-3705-3869",
+"lat": -34.698227,
+"lng": -58.383257,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69822735020087,-58.38325747990695"
+},
+{
+"place_id": "demo_0214",
+"name": "Belleza Integral",
+"type": "estetica",
+"address": "Las Heras 4396, Sarandi",
+"phone": "11-6813-7821",
+"lat": -34.684106,
+"lng": -58.34925,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.684106389344265,-58.34924985444876"
+},
+{
+"place_id": "demo_0215",
+"name": "La Vaca Express",
+"type": "carniceria",
+"address": "Alsina 2563, Wilde",
+"phone": "11-5925-8586",
+"lat": -34.708202,
+"lng": -58.321058,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.708201784089034,-58.32105793634005"
+},
+{
+"place_id": "demo_0216",
+"name": "Arco Iris 51",
+"type": "jugueteria",
+"address": "Alsina 2188, Avellaneda",
+"phone": "11-5438-2295",
+"lat": -34.662797,
+"lng": -58.366336,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.662797160176304,-58.36633587413343"
+},
+{
+"place_id": "demo_0217",
+"name": "Mecanica Martinez",
+"type": "taller_mecanico",
+"address": "Las Heras 423, Wilde",
+"phone": "11-4292-4555",
+"lat": -34.711521,
+"lng": -58.312407,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71152057605557,-58.31240664460309"
+},
+{
+"place_id": "demo_0218",
+"name": "Resto 26",
+"type": "restaurante",
+"address": "Av. Pavon 4023, Av.",
+"phone": "11-5812-4350",
+"lat": -34.697566,
+"lng": -58.322004,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69756631378171,-58.322004428270176"
+},
+{
+"place_id": "demo_0219",
+"name": "La Taza Plus",
+"type": "cafeteria",
+"address": "Rivadavia 2242, Wilde",
+"phone": "11-6625-9147",
+"lat": -34.704167,
+"lng": -58.311592,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70416673131923,-58.31159177788698"
+},
+{
+"place_id": "demo_0220",
+"name": "Materiales del Centro",
+"type": "ferreteria",
+"address": "Iberlucea 3136, Av.",
+"phone": "11-6523-1749",
+"lat": -34.698366,
+"lng": -58.317331,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69836620053816,-58.31733103712176"
+},
+{
+"place_id": "demo_0221",
+"name": "Mocca",
+"type": "cafeteria",
+"address": "25 de Mayo 3520, Calle",
+"phone": "11-6256-4214",
+"lat": -34.705587,
+"lng": -58.318838,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.705587476212834,-58.31883780098999"
+},
+{
+"place_id": "demo_0222",
+"name": "La Taza",
+"type": "cafeteria",
+"address": "San Martin 2208, Peatonal",
+"phone": "11-2840-9037",
+"lat": -34.706961,
+"lng": -58.390333,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70696128180207,-58.39033309827771"
+},
+{
+"place_id": "demo_0223",
+"name": "Frutas y Verduras",
+"type": "verduleria",
+"address": "Av. Presidente Peron 4100, Wilde",
+"phone": "11-5655-1962",
+"lat": -34.701276,
+"lng": -58.318365,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7012756442076,-58.31836518130669"
+},
+{
+"place_id": "demo_0224",
+"name": "Peluqueria Sanchez",
+"type": "peluqueria",
+"address": "Av. Las Flores 1995, Av.",
+"phone": "11-4824-3474",
+"lat": -34.697931,
+"lng": -58.325108,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69793117807686,-58.325108035062684"
+},
+{
+"place_id": "demo_0225",
+"name": "Trattoria",
+"type": "restaurante",
+"address": "Mariano Acosta 4058, Avellaneda",
+"phone": "11-2116-1108",
+"lat": -34.661308,
+"lng": -58.367029,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66130827328491,-58.36702878891701"
+},
+{
+"place_id": "demo_0226",
+"name": "Arco Iris del Centro",
+"type": "jugueteria",
+"address": "Av. Presidente Peron 2448, Calle",
+"phone": "11-4614-8054",
+"lat": -34.708887,
+"lng": -58.318833,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70888661491782,-58.31883273852397"
+},
+{
+"place_id": "demo_0227",
+"name": "El Tornillo 81",
+"type": "ferreteria",
+"address": "Pueyrredon 2167, Calle",
+"phone": "11-6373-7502",
+"lat": -34.65882,
+"lng": -58.367756,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65881951155541,-58.36775614598774"
+},
+{
+"place_id": "demo_0228",
+"name": "Mecanica",
+"type": "taller_mecanico",
+"address": "Alsina 2557, Avellaneda",
+"phone": "11-4769-1519",
+"lat": -34.654051,
+"lng": -58.365656,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65405123529362,-58.36565603607119"
+},
+{
+"place_id": "demo_0229",
+"name": "Inmobiliaria",
+"type": "inmobiliaria",
+"address": "Av. Mitre 1503, Avellaneda",
+"phone": "11-4611-8109",
+"lat": -34.663332,
+"lng": -58.364157,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66333177564416,-58.364156776967526"
+},
+{
+"place_id": "demo_0230",
+"name": "Lavanderia",
+"type": "lavanderia",
+"address": "Av. Belgrano 1982, Sarandi",
+"phone": "11-5988-8790",
+"lat": -34.683946,
+"lng": -58.336273,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.683946293952786,-58.33627263498618"
+},
+{
+"place_id": "demo_0231",
+"name": "Magic",
+"type": "peluqueria",
+"address": "25 de Mayo 369, Lanus",
+"phone": "11-5970-6152",
+"lat": -34.697365,
+"lng": -58.38868,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.697365133201046,-58.388680282617656"
+},
+{
+"place_id": "demo_0232",
+"name": "La Mesa Premium",
+"type": "restaurante",
+"address": "Rivadavia 1430, Avellaneda",
+"phone": "11-3346-7375",
+"lat": -34.660007,
+"lng": -58.360964,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66000742233465,-58.360963928482455"
+},
+{
+"place_id": "demo_0233",
+"name": "Lavanderia",
+"type": "lavanderia",
+"address": "Fabian Onsari 539, Calle",
+"phone": "11-4547-4803",
+"lat": -34.709162,
+"lng": -58.311603,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70916153785917,-58.31160254829079"
+},
+{
+"place_id": "demo_0234",
+"name": "Burbuja del Centro",
+"type": "lavanderia",
+"address": "Av. Mitre 2339, Avellaneda",
+"phone": "11-2602-4737",
+"lat": -34.659717,
+"lng": -58.363178,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65971730010879,-58.36317815626206"
+},
+{
+"place_id": "demo_0235",
+"name": "Arco Iris",
+"type": "jugueteria",
+"address": "Las Heras 802, Peatonal",
+"phone": "11-3402-5037",
+"lat": -34.702471,
+"lng": -58.393545,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.702470857240236,-58.393545216430084"
+},
+{
+"place_id": "demo_0236",
+"name": "24hs",
+"type": "kiosco",
+"address": "Las Heras 2694, Avellaneda",
+"phone": "11-6209-2499",
+"lat": -34.665112,
+"lng": -58.36692,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.665112447505685,-58.36692000011067"
+},
+{
+"place_id": "demo_0237",
+"name": "Farmacia 13",
+"type": "farmacia",
+"address": "Calle 9 de Julio 3630, Avellaneda",
+"phone": "11-2670-9395",
+"lat": -34.662284,
+"lng": -58.360818,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66228422616006,-58.360818456140784"
+},
+{
+"place_id": "demo_0238",
+"name": "Ferreteria",
+"type": "ferreteria",
+"address": "Mariano Acosta 2757, Wilde",
+"phone": "11-2112-5781",
+"lat": -34.71258,
+"lng": -58.318337,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71257980953578,-58.31833737140248"
+},
+{
+"place_id": "demo_0239",
+"name": "Propiedades",
+"type": "inmobiliaria",
+"address": "Pueyrredon 1489, Wilde",
+"phone": "11-2273-3274",
+"lat": -34.700533,
+"lng": -58.312402,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.700533294310006,-58.312402498495445"
+},
+{
+"place_id": "demo_0240",
+"name": "Salud Plus",
+"type": "farmacia",
+"address": "Sarmiento 2555, Lanus",
+"phone": "11-2901-2260",
+"lat": -34.709169,
+"lng": -58.398373,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70916867765131,-58.398373173228364"
+},
+{
+"place_id": "demo_0241",
+"name": "Escolar",
+"type": "libreria",
+"address": "Mariano Acosta 1701, Wilde",
+"phone": "11-2209-3219",
+"lat": -34.697892,
+"lng": -58.312466,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69789244326989,-58.31246560876071"
+},
+{
+"place_id": "demo_0242",
+"name": "Tradicion Plus",
+"type": "panaderia",
+"address": "Moreno 2842, Lanus",
+"phone": "11-2935-3230",
+"lat": -34.696921,
+"lng": -58.39502,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.6969211776769,-58.39502009012439"
+},
+{
+"place_id": "demo_0243",
+"name": "Burbuja del Centro",
+"type": "lavanderia",
+"address": "Calle 9 de Julio 3362, Lanus",
+"phone": "11-6398-9044",
+"lat": -34.703142,
+"lng": -58.388485,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70314219716898,-58.38848473868061"
+},
+{
+"place_id": "demo_0244",
+"name": "Havana Plus",
+"type": "cafeteria",
+"address": "Av. Pavon 1736, Calle",
+"phone": "11-3658-3947",
+"lat": -34.709741,
+"lng": -58.316197,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70974113762557,-58.31619699853536"
+},
+{
+"place_id": "demo_0245",
+"name": "Santa Plus",
+"type": "panaderia",
+"address": "Av. Hipolito Yrigoyen 3451, Calle",
+"phone": "11-2242-5961",
+"lat": -34.70347,
+"lng": -58.314384,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70346995388513,-58.31438377777167"
+},
+{
+"place_id": "demo_0246",
+"name": "Escolar Romero",
+"type": "libreria",
+"address": "Mariano Acosta 4025, Lanus",
+"phone": "11-3510-9755",
+"lat": -34.702144,
+"lng": -58.388126,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70214406656642,-58.38812574495661"
+},
+{
+"place_id": "demo_0247",
+"name": "Belleza Integral",
+"type": "estetica",
+"address": "Av. Presidente Peron 796, Av.",
+"phone": "11-4887-5067",
+"lat": -34.701476,
+"lng": -58.316511,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70147625755935,-58.31651134899541"
+},
+{
+"place_id": "demo_0248",
+"name": "Gomeria",
+"type": "taller_mecanico",
+"address": "Las Heras 2816, Sarandi",
+"phone": "11-2208-1172",
+"lat": -34.690339,
+"lng": -58.340197,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69033858410752,-58.34019715356298"
+},
+{
+"place_id": "demo_0249",
+"name": "Utiles y Mas",
+"type": "libreria",
+"address": "25 de Mayo 1910, Avellaneda",
+"phone": "11-2483-7408",
+"lat": -34.665848,
+"lng": -58.36105,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66584798272721,-58.36105035155788"
+},
+{
+"place_id": "demo_0250",
+"name": "Pet Shop Premium",
+"type": "pet_shop",
+"address": "Rivadavia 3507, Av.",
+"phone": "11-4218-3321",
+"lat": -34.699715,
+"lng": -58.324191,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69971475233133,-58.32419106081024"
+},
+{
+"place_id": "demo_0251",
+"name": "La Farmacia del barrio del Centro",
+"type": "farmacia",
+"address": "Alvear 899, Peatonal",
+"phone": "11-2839-8412",
+"lat": -34.707255,
+"lng": -58.390726,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.707255466553256,-58.39072584001977"
+},
+{
+"place_id": "demo_0252",
+"name": "Kiosquito Benitez",
+"type": "kiosco",
+"address": "San Martin 995, Peatonal",
+"phone": "11-5858-4996",
+"lat": -34.707598,
+"lng": -58.390519,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70759788733455,-58.39051851250465"
+},
+{
+"place_id": "demo_0253",
+"name": "El Campo Express",
+"type": "verduleria",
+"address": "Las Heras 1611, Av.",
+"phone": "11-5755-8080",
+"lat": -34.701377,
+"lng": -58.322028,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7013770765221,-58.32202812413336"
+},
+{
+"place_id": "demo_0254",
+"name": "La Espiga",
+"type": "panaderia",
+"address": "Sarmiento 3285, Wilde",
+"phone": "11-4821-4519",
+"lat": -34.701202,
+"lng": -58.30987,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70120178608726,-58.30987044200929"
+},
+{
+"place_id": "demo_0255",
+"name": "Libreria",
+"type": "libreria",
+"address": "Av. Pavon 4498, Lanus",
+"phone": "11-5474-6340",
+"lat": -34.700458,
+"lng": -58.386443,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70045814108351,-58.38644286380464"
+},
+{
+"place_id": "demo_0256",
+"name": "Power House",
+"type": "gimnasio",
+"address": "San Martin 3283, Lanus",
+"phone": "11-3501-2871",
+"lat": -34.711949,
+"lng": -58.388927,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7119488105273,-58.38892737429197"
+},
+{
+"place_id": "demo_0257",
+"name": "AutoFix",
+"type": "taller_mecanico",
+"address": "25 de Mayo 794, Peatonal",
+"phone": "11-5420-2931",
+"lat": -34.703236,
+"lng": -58.392061,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70323585757865,-58.39206109856531"
+},
+{
+"place_id": "demo_0258",
+"name": "Salud",
+"type": "farmacia",
+"address": "Las Heras 3526, Lanus",
+"phone": "11-3241-7286",
+"lat": -34.711895,
+"lng": -58.39428,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71189491972852,-58.39428049072264"
+},
+{
+"place_id": "demo_0259",
+"name": "Verdura Fresca 73",
+"type": "verduleria",
+"address": "Calle 9 de Julio 4111, Wilde",
+"phone": "11-6243-4065",
+"lat": -34.705213,
+"lng": -58.315402,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70521327654892,-58.315401931680036"
+},
+{
+"place_id": "demo_0260",
+"name": "Gym Express",
+"type": "gimnasio",
+"address": "Iberlucea 3245, Peatonal",
+"phone": "11-3617-9109",
+"lat": -34.705045,
+"lng": -58.390076,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70504472016969,-58.39007582215315"
+},
+{
+"place_id": "demo_0261",
+"name": "La Tienda 12",
+"type": "tienda_ropa",
+"address": "25 de Mayo 352, Wilde",
+"phone": "11-5399-1535",
+"lat": -34.70635,
+"lng": -58.310562,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70634991303561,-58.31056173116638"
+},
+{
+"place_id": "demo_0262",
+"name": "La Taza",
+"type": "cafeteria",
+"address": "Alvear 4284, Lanus",
+"phone": "11-4686-2871",
+"lat": -34.704323,
+"lng": -58.397972,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70432304487231,-58.39797223840615"
+},
+{
+"place_id": "demo_0263",
+"name": "Jugueteria",
+"type": "jugueteria",
+"address": "Moreno 1890, Lanus",
+"phone": "11-2204-5055",
+"lat": -34.699181,
+"lng": -58.394396,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69918090945604,-58.3943964881021"
+},
+{
+"place_id": "demo_0264",
+"name": "Look Premium",
+"type": "peluqueria",
+"address": "Alsina 1819, Lanus",
+"phone": "11-3805-6744",
+"lat": -34.705905,
+"lng": -58.394726,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70590481782905,-58.394725614417204"
+},
+{
+"place_id": "demo_0265",
+"name": "Spa 9",
+"type": "estetica",
+"address": "25 de Mayo 2973, Sarandi",
+"phone": "11-3387-9827",
+"lat": -34.690344,
+"lng": -58.347772,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69034429411696,-58.34777224054517"
+},
+{
+"place_id": "demo_0266",
+"name": "Espuma",
+"type": "lavanderia",
+"address": "Av. Pavon 1210, Calle",
+"phone": "11-2160-5543",
+"lat": -34.65821,
+"lng": -58.370074,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.658209998435964,-58.37007365302076"
+},
+{
+"place_id": "demo_0267",
+"name": "El Buen Corte",
+"type": "carniceria",
+"address": "San Martin 2127, Sarandi",
+"phone": "11-2601-3329",
+"lat": -34.681777,
+"lng": -58.347877,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.681777175561656,-58.3478769463003"
+},
+{
+"place_id": "demo_0268",
+"name": "Libreria",
+"type": "libreria",
+"address": "Av. Hipolito Yrigoyen 3400, Calle",
+"phone": "11-3867-5558",
+"lat": -34.706722,
+"lng": -58.315248,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70672187179221,-58.31524827672154"
+},
+{
+"place_id": "demo_0269",
+"name": "Gym",
+"type": "gimnasio",
+"address": "Av. Hipolito Yrigoyen 3855, Wilde",
+"phone": "11-6970-2037",
+"lat": -34.697796,
+"lng": -58.318763,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69779593473815,-58.31876337151743"
+},
+{
+"place_id": "demo_0270",
+"name": "Propiedades Plus",
+"type": "inmobiliaria",
+"address": "San Martin 2423, Calle",
+"phone": "11-6660-3139",
+"lat": -34.710822,
+"lng": -58.314704,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.710821700649845,-58.314703568993146"
+},
+{
+"place_id": "demo_0271",
+"name": "Boutique Rodriguez",
+"type": "tienda_ropa",
+"address": "Moreno 233, Calle",
+"phone": "11-4978-3588",
+"lat": -34.705117,
+"lng": -58.310058,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70511696346523,-58.310058453419614"
+},
+{
+"place_id": "demo_0272",
+"name": "Gimnasio",
+"type": "gimnasio",
+"address": "Av. Las Flores 2572, Wilde",
+"phone": "11-5995-5489",
+"lat": -34.712989,
+"lng": -58.308671,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71298918509581,-58.308671491691136"
+},
+{
+"place_id": "demo_0273",
+"name": "Mecanica Sanchez",
+"type": "taller_mecanico",
+"address": "Rivadavia 2018, Avellaneda",
+"phone": "11-2771-2494",
+"lat": -34.665394,
+"lng": -58.36705,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.665393771543215,-58.36705049971766"
+},
+{
+"place_id": "demo_0274",
+"name": "Tradicion 68",
+"type": "panaderia",
+"address": "Moreno 176, Avellaneda",
+"phone": "11-4812-6629",
+"lat": -34.665985,
+"lng": -58.371753,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66598526116886,-58.37175298045484"
+},
+{
+"place_id": "demo_0275",
+"name": "Spa Premium",
+"type": "estetica",
+"address": "Av. Pavon 945, Calle",
+"phone": "11-6476-5902",
+"lat": -34.66106,
+"lng": -58.368223,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.661059689988775,-58.368222997585626"
+},
+{
+"place_id": "demo_0276",
+"name": "Propiedades",
+"type": "inmobiliaria",
+"address": "Av. Las Flores 660, Calle",
+"phone": "11-3676-1138",
+"lat": -34.660265,
+"lng": -58.365468,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66026539516349,-58.365468421990094"
+},
+{
+"place_id": "demo_0277",
+"name": "Verdura Fresca",
+"type": "verduleria",
+"address": "Av. Las Flores 3472, Sarandi",
+"phone": "11-3803-8248",
+"lat": -34.685958,
+"lng": -58.338441,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68595840926753,-58.33844108757817"
+},
+{
+"place_id": "demo_0278",
+"name": "Kiosquito",
+"type": "kiosco",
+"address": "Las Heras 2979, Lanus",
+"phone": "11-2422-3290",
+"lat": -34.697861,
+"lng": -58.39848,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69786132697904,-58.39847976345164"
+},
+{
+"place_id": "demo_0279",
+"name": "Utiles y Mas",
+"type": "libreria",
+"address": "Mariano Acosta 2434, Lanus",
+"phone": "11-4968-5942",
+"lat": -34.702397,
+"lng": -58.396533,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70239682977262,-58.39653299351066"
+},
+{
+"place_id": "demo_0280",
+"name": "Step del Centro",
+"type": "zapateria",
+"address": "Av. Belgrano 2060, Lanus",
+"phone": "11-2495-2847",
+"lat": -34.703075,
+"lng": -58.397604,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7030753163459,-58.39760436258122"
+},
+{
+"place_id": "demo_0281",
+"name": "Boutique del Centro",
+"type": "tienda_ropa",
+"address": "San Martin 1181, Lanus",
+"phone": "11-2981-7895",
+"lat": -34.702515,
+"lng": -58.399722,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.702514518062095,-58.39972178396948"
+},
+{
+"place_id": "demo_0282",
+"name": "Jugueteria Torres",
+"type": "jugueteria",
+"address": "Av. Hipolito Yrigoyen 212, Wilde",
+"phone": "11-6320-1652",
+"lat": -34.702073,
+"lng": -58.311796,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70207292721596,-58.31179638499367"
+},
+{
+"place_id": "demo_0283",
+"name": "Casa y Ciudad Total",
+"type": "inmobiliaria",
+"address": "Av. Hipolito Yrigoyen 4495, Avellaneda",
+"phone": "11-3730-3501",
+"lat": -34.661294,
+"lng": -58.362943,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.6612942303316,-58.36294286886303"
+},
+{
+"place_id": "demo_0284",
+"name": "Rapido 70",
+"type": "kiosco",
+"address": "San Martin 3300, Lanus",
+"phone": "11-3749-2083",
+"lat": -34.708422,
+"lng": -58.391797,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7084216760589,-58.391796515430684"
+},
+{
+"place_id": "demo_0285",
+"name": "Estetica 13",
+"type": "estetica",
+"address": "Sarmiento 1050, Peatonal",
+"phone": "11-2726-1901",
+"lat": -34.70416,
+"lng": -58.390228,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70416033298055,-58.390228255078874"
+},
+{
+"place_id": "demo_0286",
+"name": "Verdura Fresca Fernandez",
+"type": "verduleria",
+"address": "Alvear 2940, Peatonal",
+"phone": "11-3629-5247",
+"lat": -34.709044,
+"lng": -58.391337,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70904445594474,-58.391336795143054"
+},
+{
+"place_id": "demo_0287",
+"name": "AutoFix",
+"type": "taller_mecanico",
+"address": "Av. Pavon 340, Calle",
+"phone": "11-6926-8034",
+"lat": -34.666731,
+"lng": -58.365189,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66673069392519,-58.36518876020063"
+},
+{
+"place_id": "demo_0288",
+"name": "Zapateria Total",
+"type": "zapateria",
+"address": "Pueyrredon 3050, Lanus",
+"phone": "11-4611-3734",
+"lat": -34.71285,
+"lng": -58.388178,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71285030419578,-58.388178181532396"
+},
+{
+"place_id": "demo_0289",
+"name": "Frutera",
+"type": "verduleria",
+"address": "Av. Pavon 1971, Wilde",
+"phone": "11-3102-1721",
+"lat": -34.708918,
+"lng": -58.322354,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.708918142703375,-58.32235352135965"
+},
+{
+"place_id": "demo_0290",
+"name": "Cafeteria 6",
+"type": "cafeteria",
+"address": "Av. Presidente Peron 3535, Avellaneda",
+"phone": "11-5429-5067",
+"lat": -34.668664,
+"lng": -58.367176,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.668664295521765,-58.3671763760587"
+},
+{
+"place_id": "demo_0291",
+"name": "Espuma Diaz",
+"type": "lavanderia",
+"address": "Av. Belgrano 1569, Wilde",
+"phone": "11-5923-9450",
+"lat": -34.70866,
+"lng": -58.322754,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70865987267184,-58.322753806880534"
+},
+{
+"place_id": "demo_0292",
+"name": "Hogar del Centro",
+"type": "inmobiliaria",
+"address": "San Martin 807, Avellaneda",
+"phone": "11-3567-1130",
+"lat": -34.668297,
+"lng": -58.365558,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66829717699564,-58.36555849315333"
+},
+{
+"place_id": "demo_0293",
+"name": "La Mesa",
+"type": "restaurante",
+"address": "Alsina 3900, Wilde",
+"phone": "11-6705-9083",
+"lat": -34.708334,
+"lng": -58.311448,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7083344785495,-58.3114478845234"
+},
+{
+"place_id": "demo_0294",
+"name": "Jugueteria Premium",
+"type": "jugueteria",
+"address": "Alsina 2937, Lanus",
+"phone": "11-4443-1023",
+"lat": -34.700311,
+"lng": -58.396588,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70031132003421,-58.39658771626122"
+},
+{
+"place_id": "demo_0295",
+"name": "Inmobiliaria 69",
+"type": "inmobiliaria",
+"address": "Alsina 3539, Sarandi",
+"phone": "11-2161-3332",
+"lat": -34.679416,
+"lng": -58.338365,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.67941590419554,-58.33836455937534"
+},
+{
+"place_id": "demo_0296",
+"name": "Express",
+"type": "kiosco",
+"address": "Fabian Onsari 3855, Lanus",
+"phone": "11-4694-2565",
+"lat": -34.71321,
+"lng": -58.396833,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71320979521734,-58.39683349367864"
+},
+{
+"place_id": "demo_0297",
+"name": "La Vaca",
+"type": "carniceria",
+"address": "Av. Belgrano 3663, Av.",
+"phone": "11-5342-5778",
+"lat": -34.700353,
+"lng": -58.321268,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70035341183961,-58.3212677845292"
+},
+{
+"place_id": "demo_0298",
+"name": "Espuma del Centro",
+"type": "lavanderia",
+"address": "Moreno 2327, Lanus",
+"phone": "11-5176-4321",
+"lat": -34.697331,
+"lng": -58.393927,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69733124486793,-58.393926851923666"
+},
+{
+"place_id": "demo_0299",
+"name": "Can y Gato Plus",
+"type": "pet_shop",
+"address": "Sarmiento 1089, Calle",
+"phone": "11-3466-4401",
+"lat": -34.66691,
+"lng": -58.371943,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.666910271662815,-58.37194342249897"
+},
+{
+"place_id": "demo_0300",
+"name": "Farmacia 89",
+"type": "farmacia",
+"address": "Rivadavia 430, Wilde",
+"phone": "11-5955-6370",
+"lat": -34.705586,
+"lng": -58.31036,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.705586454479096,-58.310360285029425"
+},
+{
+"place_id": "demo_0301",
+"name": "Express",
+"type": "kiosco",
+"address": "Av. Belgrano 2548, Calle",
+"phone": "11-6939-3848",
+"lat": -34.660888,
+"lng": -58.363316,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.660888426017145,-58.36331599995824"
+},
+{
+"place_id": "demo_0302",
+"name": "Propiedades Romero",
+"type": "inmobiliaria",
+"address": "Av. Pavon 1245, Avellaneda",
+"phone": "11-4112-2010",
+"lat": -34.655726,
+"lng": -58.364105,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65572637912605,-58.364104739815225"
+},
+{
+"place_id": "demo_0303",
+"name": "Angus",
+"type": "carniceria",
+"address": "Av. Hipolito Yrigoyen 2220, Lanus",
+"phone": "11-4122-2056",
+"lat": -34.710434,
+"lng": -58.39379,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71043360536675,-58.393789527425916"
+},
+{
+"place_id": "demo_0304",
+"name": "Fit Gonzalez",
+"type": "gimnasio",
+"address": "Moreno 514, Lanus",
+"phone": "11-5687-8096",
+"lat": -34.699433,
+"lng": -58.399344,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69943262402476,-58.399344384504175"
+},
+{
+"place_id": "demo_0305",
+"name": "Moda del Centro",
+"type": "tienda_ropa",
+"address": "Iberlucea 1633, Wilde",
+"phone": "11-6386-8307",
+"lat": -34.712528,
+"lng": -58.313069,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.712528283312,-58.31306859333198"
+},
+{
+"place_id": "demo_0306",
+"name": "Magic Total",
+"type": "peluqueria",
+"address": "Av. Presidente Peron 4024, Calle",
+"phone": "11-4189-5583",
+"lat": -34.661859,
+"lng": -58.36683,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66185893422222,-58.3668302283551"
+},
+{
+"place_id": "demo_0307",
+"name": "El Novillo",
+"type": "carniceria",
+"address": "Alsina 259, Wilde",
+"phone": "11-2900-6883",
+"lat": -34.706292,
+"lng": -58.313718,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.706292242860854,-58.31371755958979"
+},
+{
+"place_id": "demo_0308",
+"name": "Arco Iris",
+"type": "jugueteria",
+"address": "San Martin 3281, Av.",
+"phone": "11-6284-1427",
+"lat": -34.698623,
+"lng": -58.321872,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69862277872997,-58.32187159056252"
+},
+{
+"place_id": "demo_0309",
+"name": "Vision Ruiz",
+"type": "optica",
+"address": "Alvear 4437, Peatonal",
+"phone": "11-6885-4813",
+"lat": -34.708248,
+"lng": -58.389834,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70824783849542,-58.38983388174709"
+},
+{
+"place_id": "demo_0310",
+"name": "Don Pedro",
+"type": "ferreteria",
+"address": "Av. Belgrano 1897, Calle",
+"phone": "11-3966-7363",
+"lat": -34.665521,
+"lng": -58.370588,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66552142945998,-58.37058847204845"
+},
+{
+"place_id": "demo_0311",
+"name": "Verdura Fresca",
+"type": "verduleria",
+"address": "Fabian Onsari 331, Peatonal",
+"phone": "11-6681-3328",
+"lat": -34.708591,
+"lng": -58.39226,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70859119705936,-58.39225984392655"
+},
+{
+"place_id": "demo_0312",
+"name": "Cantina",
+"type": "restaurante",
+"address": "Rivadavia 1538, Calle",
+"phone": "11-2138-2478",
+"lat": -34.704633,
+"lng": -58.310896,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.704633031592664,-58.31089598836887"
+},
+{
+"place_id": "demo_0313",
+"name": "La Taza Perez",
+"type": "cafeteria",
+"address": "Mariano Acosta 1750, Avellaneda",
+"phone": "11-5448-3907",
+"lat": -34.659773,
+"lng": -58.372681,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65977339541688,-58.37268115216178"
+},
+{
+"place_id": "demo_0314",
+"name": "Estilo Benitez",
+"type": "peluqueria",
+"address": "Pueyrredon 3089, Peatonal",
+"phone": "11-4482-7481",
+"lat": -34.709825,
+"lng": -58.392307,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.709824696830054,-58.39230712659927"
+},
+{
+"place_id": "demo_0315",
+"name": "El Tornillo",
+"type": "ferreteria",
+"address": "Sarmiento 4091, Sarandi",
+"phone": "11-6278-6846",
+"lat": -34.687615,
+"lng": -58.344838,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68761502286175,-58.34483834873003"
+},
+{
+"place_id": "demo_0316",
+"name": "Mascotas 24",
+"type": "pet_shop",
+"address": "Av. Mitre 3307, Lanus",
+"phone": "11-3133-3983",
+"lat": -34.69934,
+"lng": -58.394189,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.699339823744026,-58.39418908605335"
+},
+{
+"place_id": "demo_0317",
+"name": "Clean",
+"type": "lavanderia",
+"address": "25 de Mayo 952, Sarandi",
+"phone": "11-2244-6425",
+"lat": -34.678263,
+"lng": -58.334519,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.67826338853731,-58.33451949303014"
+},
+{
+"place_id": "demo_0318",
+"name": "Espresso Benitez",
+"type": "cafeteria",
+"address": "San Martin 3758, Avellaneda",
+"phone": "11-4371-4435",
+"lat": -34.663851,
+"lng": -58.367888,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66385103800507,-58.367887701133746"
+},
+{
+"place_id": "demo_0319",
+"name": "Kiosco Sanchez",
+"type": "kiosco",
+"address": "Moreno 3537, Lanus",
+"phone": "11-5523-9078",
+"lat": -34.707691,
+"lng": -58.386834,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70769133908585,-58.38683363989037"
+},
+{
+"place_id": "demo_0320",
+"name": "El Mecanico",
+"type": "taller_mecanico",
+"address": "Alsina 1432, Wilde",
+"phone": "11-2175-1547",
+"lat": -34.704264,
+"lng": -58.322377,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.704263616517146,-58.322377143045806"
+},
+{
+"place_id": "demo_0321",
+"name": "La Esquina del Centro",
+"type": "panaderia",
+"address": "Calle 9 de Julio 3175, Lanus",
+"phone": "11-5849-2228",
+"lat": -34.708263,
+"lng": -58.38387,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.708263095656775,-58.383870081634186"
+},
+{
+"place_id": "demo_0322",
+"name": "Mini",
+"type": "kiosco",
+"address": "Av. Mitre 3633, Calle",
+"phone": "11-5721-8113",
+"lat": -34.70962,
+"lng": -58.309147,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70962049415752,-58.30914723899859"
+},
+{
+"place_id": "demo_0323",
+"name": "Glam Plus",
+"type": "peluqueria",
+"address": "Rivadavia 2536, Calle",
+"phone": "11-5198-1813",
+"lat": -34.666987,
+"lng": -58.370944,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66698742189026,-58.37094449523282"
+},
+{
+"place_id": "demo_0324",
+"name": "Pet Shop del Centro",
+"type": "pet_shop",
+"address": "Av. Mitre 3602, Wilde",
+"phone": "11-4401-8869",
+"lat": -34.704205,
+"lng": -58.316145,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.704205397863404,-58.31614482758599"
+},
+{
+"place_id": "demo_0325",
+"name": "La Llave Romero",
+"type": "ferreteria",
+"address": "Av. Pavon 2626, Lanus",
+"phone": "11-2582-9013",
+"lat": -34.713537,
+"lng": -58.397925,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.713536757530825,-58.39792502054954"
+},
+{
+"place_id": "demo_0326",
+"name": "El Lapiz del Centro",
+"type": "libreria",
+"address": "Las Heras 3126, Sarandi",
+"phone": "11-5556-1731",
+"lat": -34.691542,
+"lng": -58.341294,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69154180995919,-58.34129398353248"
+},
+{
+"place_id": "demo_0327",
+"name": "Fit",
+"type": "gimnasio",
+"address": "Av. Belgrano 1338, Lanus",
+"phone": "11-4187-6632",
+"lat": -34.705629,
+"lng": -58.396928,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70562895678921,-58.396927638954914"
+},
+{
+"place_id": "demo_0328",
+"name": "Estetica Total",
+"type": "estetica",
+"address": "Av. Presidente Peron 3989, Calle",
+"phone": "11-3341-8803",
+"lat": -34.703293,
+"lng": -58.313103,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70329294462826,-58.31310273557696"
+},
+{
+"place_id": "demo_0329",
+"name": "Kiosco",
+"type": "kiosco",
+"address": "25 de Mayo 4333, Lanus",
+"phone": "11-3793-3415",
+"lat": -34.706894,
+"lng": -58.385629,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.706893521426245,-58.38562908320981"
+},
+{
+"place_id": "demo_0330",
+"name": "Gimnasio 18",
+"type": "gimnasio",
+"address": "Av. Belgrano 3568, Calle",
+"phone": "11-4799-8133",
+"lat": -34.666271,
+"lng": -58.363156,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66627121027193,-58.36315632009751"
+},
+{
+"place_id": "demo_0331",
+"name": "Angus Rodriguez",
+"type": "carniceria",
+"address": "Las Heras 3355, Lanus",
+"phone": "11-3433-5525",
+"lat": -34.698986,
+"lng": -58.396358,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69898605386383,-58.39635804552022"
+},
+{
+"place_id": "demo_0332",
+"name": "Power House Sanchez",
+"type": "gimnasio",
+"address": "Av. Las Flores 1314, Av.",
+"phone": "11-3702-2641",
+"lat": -34.696994,
+"lng": -58.325852,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.6969940570706,-58.32585163443209"
+},
+{
+"place_id": "demo_0333",
+"name": "Mascotas Plus",
+"type": "pet_shop",
+"address": "Las Heras 4077, Avellaneda",
+"phone": "11-3723-8750",
+"lat": -34.656927,
+"lng": -58.360428,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65692728484857,-58.360428069915045"
+},
+{
+"place_id": "demo_0334",
+"name": "Frutera",
+"type": "verduleria",
+"address": "Las Heras 417, Avellaneda",
+"phone": "11-2439-4892",
+"lat": -34.664993,
+"lng": -58.370698,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66499337372744,-58.37069835726997"
+},
+{
+"place_id": "demo_0335",
+"name": "Boutique del Centro",
+"type": "tienda_ropa",
+"address": "Rivadavia 2647, Avellaneda",
+"phone": "11-6963-9054",
+"lat": -34.654667,
+"lng": -58.358647,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.654666640273504,-58.35864749820561"
+},
+{
+"place_id": "demo_0336",
+"name": "La Taza del Centro",
+"type": "cafeteria",
+"address": "Colon 3514, Avellaneda",
+"phone": "11-3761-2462",
+"lat": -34.66725,
+"lng": -58.357412,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.667249831664506,-58.35741248920635"
+},
+{
+"place_id": "demo_0337",
+"name": "Power House",
+"type": "gimnasio",
+"address": "Fabian Onsari 560, Lanus",
+"phone": "11-3910-3604",
+"lat": -34.710195,
+"lng": -58.386169,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71019497096209,-58.38616855018341"
+},
+{
+"place_id": "demo_0338",
+"name": "Farmacia 26",
+"type": "farmacia",
+"address": "Iberlucea 572, Avellaneda",
+"phone": "11-5133-8478",
+"lat": -34.658047,
+"lng": -58.366546,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65804688962617,-58.3665458377438"
+},
+{
+"place_id": "demo_0339",
+"name": "El Mecanico",
+"type": "taller_mecanico",
+"address": "Las Heras 1114, Avellaneda",
+"phone": "11-4347-7102",
+"lat": -34.658126,
+"lng": -58.368616,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65812585687648,-58.36861636002441"
+},
+{
+"place_id": "demo_0340",
+"name": "Vision",
+"type": "optica",
+"address": "Av. Presidente Peron 2965, Av.",
+"phone": "11-6267-5237",
+"lat": -34.702647,
+"lng": -58.314474,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.702646758808704,-58.31447375546064"
+},
+{
+"place_id": "demo_0341",
+"name": "Salud 84",
+"type": "farmacia",
+"address": "Alsina 1793, Avellaneda",
+"phone": "11-6767-7709",
+"lat": -34.668961,
+"lng": -58.372206,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.668960792161634,-58.37220558331455"
+},
+{
+"place_id": "demo_0342",
+"name": "Panaderia Express",
+"type": "panaderia",
+"address": "Calle 9 de Julio 169, Av.",
+"phone": "11-5358-6004",
+"lat": -34.697624,
+"lng": -58.314394,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.697624440838666,-58.31439433973126"
+},
+{
+"place_id": "demo_0343",
+"name": "Papeleria Plus",
+"type": "libreria",
+"address": "Iberlucea 3923, Sarandi",
+"phone": "11-6793-9530",
+"lat": -34.686219,
+"lng": -58.343976,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68621909118945,-58.343976392763665"
+},
+{
+"place_id": "demo_0344",
+"name": "Hogar",
+"type": "inmobiliaria",
+"address": "Mariano Acosta 2415, Sarandi",
+"phone": "11-6800-2771",
+"lat": -34.683648,
+"lng": -58.349882,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68364820550653,-58.349882438837106"
+},
+{
+"place_id": "demo_0345",
+"name": "La Esquina del Centro",
+"type": "kiosco",
+"address": "Colon 2547, Av.",
+"phone": "11-5253-9475",
+"lat": -34.703965,
+"lng": -58.322682,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70396459615334,-58.3226822010004"
+},
+{
+"place_id": "demo_0346",
+"name": "Belleza Plus",
+"type": "peluqueria",
+"address": "Av. Las Flores 308, Lanus",
+"phone": "11-2402-5250",
+"lat": -34.699502,
+"lng": -58.386557,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69950226319259,-58.38655745259985"
+},
+{
+"place_id": "demo_0347",
+"name": "Propiedades del Centro",
+"type": "inmobiliaria",
+"address": "Alsina 4479, Wilde",
+"phone": "11-2787-6873",
+"lat": -34.706788,
+"lng": -58.323435,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70678760126391,-58.32343489592278"
+},
+{
+"place_id": "demo_0348",
+"name": "Salud del Centro",
+"type": "farmacia",
+"address": "Av. Pavon 3956, Av.",
+"phone": "11-5858-5237",
+"lat": -34.697855,
+"lng": -58.315912,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69785496906906,-58.31591233566484"
+},
+{
+"place_id": "demo_0349",
+"name": "Verdura Fresca Lopez",
+"type": "verduleria",
+"address": "Fabian Onsari 1929, Calle",
+"phone": "11-6530-6428",
+"lat": -34.703531,
+"lng": -58.310004,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70353076619806,-58.31000408842149"
+},
+{
+"place_id": "demo_0350",
+"name": "Libreria Premium",
+"type": "libreria",
+"address": "25 de Mayo 683, Wilde",
+"phone": "11-2299-9199",
+"lat": -34.703631,
+"lng": -58.31658,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70363086887669,-58.316579829949"
+},
+{
+"place_id": "demo_0351",
+"name": "Propiedades 27",
+"type": "inmobiliaria",
+"address": "San Martin 3452, Calle",
+"phone": "11-3568-3346",
+"lat": -34.662702,
+"lng": -58.368869,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.6627016149537,-58.368868927459864"
+},
+{
+"place_id": "demo_0352",
+"name": "Verdura Fresca 42",
+"type": "verduleria",
+"address": "Av. Belgrano 138, Peatonal",
+"phone": "11-2380-4430",
+"lat": -34.703768,
+"lng": -58.393099,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.703768470580535,-58.393099353234014"
+},
+{
+"place_id": "demo_0353",
+"name": "Pet Shop 80",
+"type": "pet_shop",
+"address": "Sarmiento 3617, Calle",
+"phone": "11-2539-8821",
+"lat": -34.660355,
+"lng": -58.368104,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66035516263854,-58.3681042290937"
+},
+{
+"place_id": "demo_0354",
+"name": "La Flor Silva",
+"type": "panaderia",
+"address": "San Martin 4450, Wilde",
+"phone": "11-5118-1067",
+"lat": -34.712396,
+"lng": -58.320809,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7123963949044,-58.32080937198035"
+},
+{
+"place_id": "demo_0355",
+"name": "Coffee 15",
+"type": "cafeteria",
+"address": "Las Heras 4223, Sarandi",
+"phone": "11-3413-3736",
+"lat": -34.68938,
+"lng": -58.335968,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68937974861938,-58.33596823783584"
+},
+{
+"place_id": "demo_0356",
+"name": "Salon",
+"type": "peluqueria",
+"address": "Pueyrredon 2867, Avellaneda",
+"phone": "11-2803-3192",
+"lat": -34.664629,
+"lng": -58.368347,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.664628763944094,-58.36834675533105"
+},
+{
+"place_id": "demo_0357",
+"name": "La Tienda Lopez",
+"type": "tienda_ropa",
+"address": "Alsina 1174, Peatonal",
+"phone": "11-5851-1359",
+"lat": -34.707126,
+"lng": -58.395493,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70712599290907,-58.395492591728875"
+},
+{
+"place_id": "demo_0358",
+"name": "Zapateria Plus",
+"type": "zapateria",
+"address": "Av. Presidente Peron 498, Sarandi",
+"phone": "11-3149-2771",
+"lat": -34.690296,
+"lng": -58.344135,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69029624412976,-58.3441345367776"
+},
+{
+"place_id": "demo_0359",
+"name": "La Espiga Premium",
+"type": "panaderia",
+"address": "Av. Presidente Peron 2170, Sarandi",
+"phone": "11-2818-3508",
+"lat": -34.692228,
+"lng": -58.348147,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69222823909644,-58.34814736277857"
+},
+{
+"place_id": "demo_0360",
+"name": "La Nueva del Centro",
+"type": "panaderia",
+"address": "Mariano Acosta 1223, Lanus",
+"phone": "11-2950-2718",
+"lat": -34.70858,
+"lng": -58.38909,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.708579903814375,-58.38909003763037"
+},
+{
+"place_id": "demo_0361",
+"name": "Optica Express",
+"type": "optica",
+"address": "Mariano Acosta 1736, Av.",
+"phone": "11-6951-9571",
+"lat": -34.706587,
+"lng": -58.324632,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.706587185178755,-58.32463184936779"
+},
+{
+"place_id": "demo_0362",
+"name": "Taller",
+"type": "taller_mecanico",
+"address": "Alvear 1801, Lanus",
+"phone": "11-2438-4842",
+"lat": -34.701338,
+"lng": -58.395684,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.701338138495565,-58.39568367838199"
+},
+{
+"place_id": "demo_0363",
+"name": "Tradicion",
+"type": "panaderia",
+"address": "Alvear 1321, Avellaneda",
+"phone": "11-4898-9383",
+"lat": -34.658654,
+"lng": -58.35849,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65865386988056,-58.358489919291685"
+},
+{
+"place_id": "demo_0364",
+"name": "Herramientas del Centro",
+"type": "ferreteria",
+"address": "Colon 3903, Avellaneda",
+"phone": "11-4202-3862",
+"lat": -34.654924,
+"lng": -58.362691,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.654923529856696,-58.362690611334905"
+},
+{
+"place_id": "demo_0365",
+"name": "La Farmacia del barrio",
+"type": "farmacia",
+"address": "Av. Pavon 878, Avellaneda",
+"phone": "11-4109-3267",
+"lat": -34.663637,
+"lng": -58.362172,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.663636565375135,-58.362171735487856"
+},
+{
+"place_id": "demo_0366",
+"name": "Frutera del Centro",
+"type": "verduleria",
+"address": "Av. Hipolito Yrigoyen 3152, Sarandi",
+"phone": "11-6287-2865",
+"lat": -34.687741,
+"lng": -58.335688,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68774142678291,-58.335687558121954"
+},
+{
+"place_id": "demo_0367",
+"name": "Casa y Ciudad",
+"type": "inmobiliaria",
+"address": "Alvear 3554, Wilde",
+"phone": "11-5215-3171",
+"lat": -34.697603,
+"lng": -58.319651,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.6976030411176,-58.319650670548"
+},
+{
+"place_id": "demo_0368",
+"name": "El Campo",
+"type": "verduleria",
+"address": "Moreno 1584, Avellaneda",
+"phone": "11-3488-6875",
+"lat": -34.667741,
+"lng": -58.35842,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.667740590308185,-58.35842037181965"
+},
+{
+"place_id": "demo_0369",
+"name": "Don Total",
+"type": "panaderia",
+"address": "Av. Pavon 3469, Sarandi",
+"phone": "11-2147-2037",
+"lat": -34.679199,
+"lng": -58.335921,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.67919878760762,-58.335920796055966"
+},
+{
+"place_id": "demo_0370",
+"name": "Clean",
+"type": "lavanderia",
+"address": "San Martin 4352, Lanus",
+"phone": "11-3804-2560",
+"lat": -34.713778,
+"lng": -58.38537,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71377751616625,-58.38537001910655"
+},
+{
+"place_id": "demo_0371",
+"name": "Espresso Express",
+"type": "cafeteria",
+"address": "Av. Presidente Peron 547, Wilde",
+"phone": "11-4758-3571",
+"lat": -34.705289,
+"lng": -58.313381,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70528912516287,-58.31338062969729"
+},
+{
+"place_id": "demo_0372",
+"name": "Boutique Plus",
+"type": "tienda_ropa",
+"address": "Alsina 2810, Av.",
+"phone": "11-6151-9305",
+"lat": -34.697778,
+"lng": -58.315567,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69777754618264,-58.31556701238465"
+},
+{
+"place_id": "demo_0373",
+"name": "Jugueteria Romero",
+"type": "jugueteria",
+"address": "Moreno 3770, Lanus",
+"phone": "11-4977-9166",
+"lat": -34.70242,
+"lng": -58.393741,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70242028833318,-58.393741014117694"
+},
+{
+"place_id": "demo_0374",
+"name": "Lavanderia Sanchez",
+"type": "lavanderia",
+"address": "Sarmiento 393, Wilde",
+"phone": "11-3662-1002",
+"lat": -34.711101,
+"lng": -58.316042,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71110069036714,-58.316042026430935"
+},
+{
+"place_id": "demo_0375",
+"name": "Anteojos del Centro",
+"type": "optica",
+"address": "Iberlucea 3837, Avellaneda",
+"phone": "11-6472-1889",
+"lat": -34.653989,
+"lng": -58.362799,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65398926002752,-58.36279939004128"
+},
+{
+"place_id": "demo_0376",
+"name": "Power House",
+"type": "gimnasio",
+"address": "Fabian Onsari 3807, Lanus",
+"phone": "11-4199-4633",
+"lat": -34.708024,
+"lng": -58.387187,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.708024492740016,-58.38718650480244"
+},
+{
+"place_id": "demo_0377",
+"name": "Espuma",
+"type": "lavanderia",
+"address": "Pueyrredon 3162, Avellaneda",
+"phone": "11-4146-3689",
+"lat": -34.663718,
+"lng": -58.362861,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.663717776342644,-58.36286142111249"
+},
+{
+"place_id": "demo_0378",
+"name": "Don Tito Martinez",
+"type": "carniceria",
+"address": "Mariano Acosta 1704, Av.",
+"phone": "11-5223-7437",
+"lat": -34.698138,
+"lng": -58.31709,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.698137936080975,-58.31708986931549"
+},
+{
+"place_id": "demo_0379",
+"name": "Fit Ruiz",
+"type": "gimnasio",
+"address": "Sarmiento 480, Lanus",
+"phone": "11-3226-8381",
+"lat": -34.699158,
+"lng": -58.39757,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69915802541326,-58.39756958224697"
+},
+{
+"place_id": "demo_0380",
+"name": "Can y Gato Diaz",
+"type": "pet_shop",
+"address": "Av. Belgrano 3645, Wilde",
+"phone": "11-3594-9328",
+"lat": -34.697701,
+"lng": -58.321846,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.697700954853985,-58.32184582376911"
+},
+{
+"place_id": "demo_0381",
+"name": "Pet Shop Plus",
+"type": "pet_shop",
+"address": "Pueyrredon 3251, Calle",
+"phone": "11-2723-5067",
+"lat": -34.666263,
+"lng": -58.364848,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66626349729817,-58.36484755845902"
+},
+{
+"place_id": "demo_0382",
+"name": "Casa y Ciudad 19",
+"type": "inmobiliaria",
+"address": "Sarmiento 4296, Lanus",
+"phone": "11-6963-9975",
+"lat": -34.696655,
+"lng": -58.383531,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69665531632176,-58.383531150301586"
+},
+{
+"place_id": "demo_0383",
+"name": "Arco Iris",
+"type": "jugueteria",
+"address": "Rivadavia 2928, Peatonal",
+"phone": "11-5827-3913",
+"lat": -34.704939,
+"lng": -58.395393,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70493933372394,-58.3953928873414"
+},
+{
+"place_id": "demo_0384",
+"name": "Jugueteria del Centro",
+"type": "jugueteria",
+"address": "Av. Presidente Peron 4035, Av.",
+"phone": "11-3684-7839",
+"lat": -34.699668,
+"lng": -58.322131,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69966825631527,-58.322131423231035"
+},
+{
+"place_id": "demo_0385",
+"name": "Farmacia",
+"type": "farmacia",
+"address": "Av. Pavon 307, Calle",
+"phone": "11-2248-1869",
+"lat": -34.704225,
+"lng": -58.314776,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.704225227650454,-58.31477613630829"
+},
+{
+"place_id": "demo_0386",
+"name": "Bodegon",
+"type": "restaurante",
+"address": "Colon 1299, Avellaneda",
+"phone": "11-4807-5835",
+"lat": -34.665128,
+"lng": -58.360431,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66512834768889,-58.360431484918486"
+},
+{
+"place_id": "demo_0387",
+"name": "Jugueteria",
+"type": "jugueteria",
+"address": "Av. Presidente Peron 1937, Lanus",
+"phone": "11-3498-4892",
+"lat": -34.713418,
+"lng": -58.386348,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.713418485101634,-58.38634752808402"
+},
+{
+"place_id": "demo_0388",
+"name": "La Farmacia del barrio Total",
+"type": "farmacia",
+"address": "San Martin 540, Av.",
+"phone": "11-4861-5117",
+"lat": -34.699685,
+"lng": -58.325436,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69968476709743,-58.3254362414247"
+},
+{
+"place_id": "demo_0389",
+"name": "Vision 83",
+"type": "optica",
+"address": "Fabian Onsari 1709, Lanus",
+"phone": "11-5401-8353",
+"lat": -34.698361,
+"lng": -58.385512,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.698360700696284,-58.38551199470712"
+},
+{
+"place_id": "demo_0390",
+"name": "Kiosquito Premium",
+"type": "kiosco",
+"address": "Sarmiento 2386, Calle",
+"phone": "11-3370-3131",
+"lat": -34.66613,
+"lng": -58.371262,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66613023418467,-58.37126204868145"
+},
+{
+"place_id": "demo_0391",
+"name": "Can y Gato",
+"type": "pet_shop",
+"address": "Av. Las Flores 427, Calle",
+"phone": "11-5430-1833",
+"lat": -34.65954,
+"lng": -58.372944,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65953985803909,-58.372943548639824"
+},
+{
+"place_id": "demo_0392",
+"name": "Anteojos del Centro",
+"type": "optica",
+"address": "Fabian Onsari 697, Sarandi",
+"phone": "11-6638-4603",
+"lat": -34.67951,
+"lng": -58.345182,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.67950976030089,-58.345181522906955"
+},
+{
+"place_id": "demo_0393",
+"name": "Step",
+"type": "zapateria",
+"address": "Av. Presidente Peron 3404, Lanus",
+"phone": "11-4457-4624",
+"lat": -34.712773,
+"lng": -58.391907,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71277282355612,-58.39190747369179"
+},
+{
+"place_id": "demo_0394",
+"name": "Burbuja",
+"type": "lavanderia",
+"address": "Av. Mitre 1039, Lanus",
+"phone": "11-6556-4937",
+"lat": -34.708041,
+"lng": -58.395716,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.708040802340996,-58.39571566157094"
+},
+{
+"place_id": "demo_0395",
+"name": "Optica",
+"type": "optica",
+"address": "San Martin 3224, Sarandi",
+"phone": "11-4495-5203",
+"lat": -34.678302,
+"lng": -58.346099,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.67830228321301,-58.34609876537813"
+},
+{
+"place_id": "demo_0396",
+"name": "Farmacity local",
+"type": "farmacia",
+"address": "Pueyrredon 3750, Calle",
+"phone": "11-2144-5856",
+"lat": -34.712753,
+"lng": -58.313831,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71275294270282,-58.313831321774266"
+},
+{
+"place_id": "demo_0397",
+"name": "Resto 70",
+"type": "restaurante",
+"address": "Av. Presidente Peron 160, Sarandi",
+"phone": "11-4315-4492",
+"lat": -34.687875,
+"lng": -58.348682,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68787499588563,-58.34868247283122"
+},
+{
+"place_id": "demo_0398",
+"name": "Ferre Premium",
+"type": "ferreteria",
+"address": "Av. Las Flores 294, Wilde",
+"phone": "11-2834-6434",
+"lat": -34.709711,
+"lng": -58.31074,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.709710726912284,-58.31074002126423"
+},
+{
+"place_id": "demo_0399",
+"name": "El Amigo",
+"type": "kiosco",
+"address": "Av. Hipolito Yrigoyen 1964, Avellaneda",
+"phone": "11-6517-7357",
+"lat": -34.668228,
+"lng": -58.370152,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.668228031533445,-58.370152125383115"
+},
+{
+"place_id": "demo_0400",
+"name": "Inmobiliaria",
+"type": "inmobiliaria",
+"address": "Av. Mitre 618, Wilde",
+"phone": "11-3146-2189",
+"lat": -34.706072,
+"lng": -58.32373,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70607159944577,-58.32372974450713"
+},
+{
+"place_id": "demo_0401",
+"name": "El Pie",
+"type": "zapateria",
+"address": "Av. Hipolito Yrigoyen 2406, Peatonal",
+"phone": "11-2490-7473",
+"lat": -34.709151,
+"lng": -58.390705,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70915091566504,-58.3907048648187"
+},
+{
+"place_id": "demo_0402",
+"name": "Don",
+"type": "panaderia",
+"address": "Las Heras 2516, Sarandi",
+"phone": "11-5405-7113",
+"lat": -34.685416,
+"lng": -58.341465,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68541619716211,-58.34146451577903"
+},
+{
+"place_id": "demo_0403",
+"name": "Jugueteria Torres",
+"type": "jugueteria",
+"address": "Mariano Acosta 3328, Avellaneda",
+"phone": "11-3660-2394",
+"lat": -34.655404,
+"lng": -58.370738,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65540372915804,-58.37073801814041"
+},
+{
+"place_id": "demo_0404",
+"name": "Bodegon 54",
+"type": "restaurante",
+"address": "Pueyrredon 1266, Peatonal",
+"phone": "11-5288-4617",
+"lat": -34.704014,
+"lng": -58.389772,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70401362730614,-58.38977162899221"
+},
+{
+"place_id": "demo_0405",
+"name": "Utiles y Mas Benitez",
+"type": "libreria",
+"address": "Av. Presidente Peron 3878, Sarandi",
+"phone": "11-3174-5762",
+"lat": -34.689891,
+"lng": -58.347098,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.689890780554464,-58.34709827224362"
+},
+{
+"place_id": "demo_0406",
+"name": "Escolar del Centro",
+"type": "libreria",
+"address": "Fabian Onsari 1150, Avellaneda",
+"phone": "11-5202-5671",
+"lat": -34.667829,
+"lng": -58.361391,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.667828761577915,-58.36139057188266"
+},
+{
+"place_id": "demo_0407",
+"name": "Mini del Centro",
+"type": "kiosco",
+"address": "Mariano Acosta 2604, Sarandi",
+"phone": "11-3256-6971",
+"lat": -34.678598,
+"lng": -58.344915,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.678598102546516,-58.34491542500426"
+},
+{
+"place_id": "demo_0408",
+"name": "Spa",
+"type": "estetica",
+"address": "Sarmiento 2366, Peatonal",
+"phone": "11-6237-6432",
+"lat": -34.708651,
+"lng": -58.394494,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70865088391275,-58.39449428175413"
+},
+{
+"place_id": "demo_0409",
+"name": "Power House",
+"type": "gimnasio",
+"address": "Av. Pavon 1539, Av.",
+"phone": "11-3183-5597",
+"lat": -34.702656,
+"lng": -58.316703,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7026557043172,-58.31670279646169"
+},
+{
+"place_id": "demo_0410",
+"name": "Arco Iris Gomez",
+"type": "jugueteria",
+"address": "Av. Hipolito Yrigoyen 252, Calle",
+"phone": "11-3746-1511",
+"lat": -34.666036,
+"lng": -58.365665,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66603568070656,-58.36566455382956"
+},
+{
+"place_id": "demo_0411",
+"name": "Pet Shop",
+"type": "pet_shop",
+"address": "Colon 3967, Calle",
+"phone": "11-5474-7430",
+"lat": -34.708949,
+"lng": -58.3131,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.708948655324484,-58.313099636881596"
+},
+{
+"place_id": "demo_0412",
+"name": "Can y Gato",
+"type": "pet_shop",
+"address": "Pueyrredon 841, Lanus",
+"phone": "11-2472-9227",
+"lat": -34.700802,
+"lng": -58.395762,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70080191711017,-58.39576201511614"
+},
+{
+"place_id": "demo_0413",
+"name": "Mocca",
+"type": "cafeteria",
+"address": "Calle 9 de Julio 4311, Avellaneda",
+"phone": "11-5556-3608",
+"lat": -34.655832,
+"lng": -58.360095,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65583229055834,-58.36009535908916"
+},
+{
+"place_id": "demo_0414",
+"name": "Mundo Animal",
+"type": "pet_shop",
+"address": "Alvear 3039, Calle",
+"phone": "11-4324-8989",
+"lat": -34.658513,
+"lng": -58.366406,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65851288168387,-58.36640586693047"
+},
+{
+"place_id": "demo_0415",
+"name": "Rapido",
+"type": "kiosco",
+"address": "Fabian Onsari 3279, Lanus",
+"phone": "11-2565-1760",
+"lat": -34.709242,
+"lng": -58.396788,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70924157192819,-58.39678766396068"
+},
+{
+"place_id": "demo_0416",
+"name": "Espuma",
+"type": "lavanderia",
+"address": "Colon 1524, Avellaneda",
+"phone": "11-2769-7201",
+"lat": -34.667748,
+"lng": -58.357505,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66774839979366,-58.357504937586626"
+},
+{
+"place_id": "demo_0417",
+"name": "Mascotas Express",
+"type": "pet_shop",
+"address": "Pueyrredon 3424, Wilde",
+"phone": "11-6936-6653",
+"lat": -34.702547,
+"lng": -58.310632,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70254661525509,-58.31063249491718"
+},
+{
+"place_id": "demo_0418",
+"name": "Moda Express",
+"type": "tienda_ropa",
+"address": "Alsina 731, Av.",
+"phone": "11-3758-5600",
+"lat": -34.697354,
+"lng": -58.325921,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69735393667779,-58.32592082776113"
+},
+{
+"place_id": "demo_0419",
+"name": "Angus Alvarez",
+"type": "carniceria",
+"address": "Alsina 3496, Lanus",
+"phone": "11-6837-2856",
+"lat": -34.710636,
+"lng": -58.39448,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71063569783544,-58.39447998700413"
+},
+{
+"place_id": "demo_0420",
+"name": "La Tienda Lopez",
+"type": "tienda_ropa",
+"address": "Av. Belgrano 1147, Av.",
+"phone": "11-3706-3639",
+"lat": -34.702252,
+"lng": -58.318911,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70225174603962,-58.31891050921429"
+},
+{
+"place_id": "demo_0421",
+"name": "Zapateria 35",
+"type": "zapateria",
+"address": "Calle 9 de Julio 4332, Calle",
+"phone": "11-2713-1305",
+"lat": -34.667608,
+"lng": -58.367277,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.6676080913476,-58.3672773070077"
+},
+{
+"place_id": "demo_0422",
+"name": "La Farmacia del barrio Express",
+"type": "farmacia",
+"address": "Alsina 3465, Sarandi",
+"phone": "11-3246-3979",
+"lat": -34.677844,
+"lng": -58.346535,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.677843938102036,-58.34653450531373"
+},
+{
+"place_id": "demo_0423",
+"name": "El Pie Premium",
+"type": "zapateria",
+"address": "Alsina 3198, Sarandi",
+"phone": "11-2235-2778",
+"lat": -34.688768,
+"lng": -58.338413,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.688767668823274,-58.338413011230756"
+},
+{
+"place_id": "demo_0424",
+"name": "La Mesa Express",
+"type": "restaurante",
+"address": "Mariano Acosta 888, Avellaneda",
+"phone": "11-5587-1639",
+"lat": -34.661037,
+"lng": -58.358451,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66103661851172,-58.35845057243057"
+},
+{
+"place_id": "demo_0425",
+"name": "Calzados",
+"type": "zapateria",
+"address": "Av. Presidente Peron 109, Calle",
+"phone": "11-2634-7892",
+"lat": -34.705476,
+"lng": -58.318068,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70547616848964,-58.31806810034199"
+},
+{
+"place_id": "demo_0426",
+"name": "Cabello y Co. Plus",
+"type": "peluqueria",
+"address": "25 de Mayo 900, Wilde",
+"phone": "11-2237-5170",
+"lat": -34.701838,
+"lng": -58.317137,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.701837715085766,-58.31713669976837"
+},
+{
+"place_id": "demo_0427",
+"name": "Mocca",
+"type": "cafeteria",
+"address": "Sarmiento 2211, Av.",
+"phone": "11-5105-1116",
+"lat": -34.697079,
+"lng": -58.324994,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69707897571989,-58.324994189028445"
+},
+{
+"place_id": "demo_0428",
+"name": "Calzados",
+"type": "zapateria",
+"address": "San Martin 3449, Calle",
+"phone": "11-6209-3535",
+"lat": -34.711822,
+"lng": -58.318928,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.711821713960184,-58.318928059475496"
+},
+{
+"place_id": "demo_0429",
+"name": "Can y Gato",
+"type": "pet_shop",
+"address": "Fabian Onsari 2357, Wilde",
+"phone": "11-2873-4337",
+"lat": -34.708942,
+"lng": -58.31032,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70894187638029,-58.31032036917971"
+},
+{
+"place_id": "demo_0430",
+"name": "Mundo Juguete",
+"type": "jugueteria",
+"address": "Av. Presidente Peron 4062, Wilde",
+"phone": "11-6414-6641",
+"lat": -34.700459,
+"lng": -58.316281,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70045938532858,-58.31628051588789"
+},
+{
+"place_id": "demo_0431",
+"name": "Angus 59",
+"type": "carniceria",
+"address": "Calle 9 de Julio 921, Wilde",
+"phone": "11-5620-7562",
+"lat": -34.69932,
+"lng": -58.313451,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69932001723482,-58.31345147441398"
+},
+{
+"place_id": "demo_0432",
+"name": "Jugueteria 51",
+"type": "jugueteria",
+"address": "Av. Mitre 846, Peatonal",
+"phone": "11-5582-8133",
+"lat": -34.705088,
+"lng": -58.391523,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70508779706377,-58.39152348442633"
+},
+{
+"place_id": "demo_0433",
+"name": "Kiosco",
+"type": "kiosco",
+"address": "Las Heras 3382, Avellaneda",
+"phone": "11-3771-9536",
+"lat": -34.665191,
+"lng": -58.367067,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66519052803257,-58.36706663798332"
+},
+{
+"place_id": "demo_0434",
+"name": "Optica",
+"type": "optica",
+"address": "Alvear 3696, Lanus",
+"phone": "11-4306-9489",
+"lat": -34.712966,
+"lng": -58.387075,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7129656653775,-58.38707504785982"
+},
+{
+"place_id": "demo_0435",
+"name": "Trattoria",
+"type": "restaurante",
+"address": "Alsina 1488, Lanus",
+"phone": "11-4468-4919",
+"lat": -34.713395,
+"lng": -58.390209,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.713395031674864,-58.39020873156794"
+},
+{
+"place_id": "demo_0436",
+"name": "El Molino Plus",
+"type": "panaderia",
+"address": "Las Heras 3421, Sarandi",
+"phone": "11-3305-9482",
+"lat": -34.67739,
+"lng": -58.348611,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.67738966558487,-58.34861051499882"
+},
+{
+"place_id": "demo_0437",
+"name": "La Esquina del Centro",
+"type": "kiosco",
+"address": "Colon 1953, Avellaneda",
+"phone": "11-3299-8450",
+"lat": -34.654693,
+"lng": -58.364207,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65469316126225,-58.36420651754326"
+},
+{
+"place_id": "demo_0438",
+"name": "Pet Shop",
+"type": "pet_shop",
+"address": "Av. Hipolito Yrigoyen 4221, Wilde",
+"phone": "11-6448-2917",
+"lat": -34.712926,
+"lng": -58.321199,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71292557677494,-58.32119944341098"
+},
+{
+"place_id": "demo_0439",
+"name": "Utiles y Mas del Centro",
+"type": "libreria",
+"address": "Moreno 3189, Av.",
+"phone": "11-3595-4985",
+"lat": -34.697487,
+"lng": -58.316242,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69748664344508,-58.31624223180472"
+},
+{
+"place_id": "demo_0440",
+"name": "Gym Premium",
+"type": "gimnasio",
+"address": "Colon 653, Peatonal",
+"phone": "11-2748-4610",
+"lat": -34.704547,
+"lng": -58.389828,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70454724261399,-58.38982780941804"
+},
+{
+"place_id": "demo_0441",
+"name": "Lavanderia",
+"type": "lavanderia",
+"address": "Colon 2133, Lanus",
+"phone": "11-6195-7536",
+"lat": -34.706576,
+"lng": -58.394644,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70657633250059,-58.394644267221565"
+},
+{
+"place_id": "demo_0442",
+"name": "La Esquina del Centro",
+"type": "kiosco",
+"address": "Iberlucea 2304, Peatonal",
+"phone": "11-5864-4115",
+"lat": -34.705564,
+"lng": -58.395572,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.705563587967674,-58.39557211402198"
+},
+{
+"place_id": "demo_0443",
+"name": "Bodegon 31",
+"type": "restaurante",
+"address": "Iberlucea 2145, Av.",
+"phone": "11-3464-3555",
+"lat": -34.705182,
+"lng": -58.323095,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.705181663536834,-58.323095321785864"
+},
+{
+"place_id": "demo_0444",
+"name": "Ferre Premium",
+"type": "ferreteria",
+"address": "Av. Presidente Peron 446, Avellaneda",
+"phone": "11-2480-6167",
+"lat": -34.654677,
+"lng": -58.362187,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.654676989927474,-58.362187006001975"
+},
+{
+"place_id": "demo_0445",
+"name": "Mascotas Express",
+"type": "pet_shop",
+"address": "25 de Mayo 1150, Av.",
+"phone": "11-4638-7933",
+"lat": -34.697575,
+"lng": -58.32011,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.697574773972505,-58.32011033578072"
+},
+{
+"place_id": "demo_0446",
+"name": "Arco Iris 60",
+"type": "jugueteria",
+"address": "Av. Pavon 4345, Av.",
+"phone": "11-2423-1137",
+"lat": -34.707609,
+"lng": -58.321833,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7076092482356,-58.32183253246006"
+},
+{
+"place_id": "demo_0447",
+"name": "Bodegon",
+"type": "restaurante",
+"address": "Colon 1633, Avellaneda",
+"phone": "11-3369-4885",
+"lat": -34.663329,
+"lng": -58.371388,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66332915194261,-58.371388034781766"
+},
+{
+"place_id": "demo_0448",
+"name": "Moda Total",
+"type": "tienda_ropa",
+"address": "Iberlucea 3533, Lanus",
+"phone": "11-6473-7563",
+"lat": -34.696747,
+"lng": -58.394824,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69674651729289,-58.39482426371734"
+},
+{
+"place_id": "demo_0449",
+"name": "Gimnasio Gomez",
+"type": "gimnasio",
+"address": "Colon 2031, Lanus",
+"phone": "11-3542-7240",
+"lat": -34.710762,
+"lng": -58.398639,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71076199388291,-58.398639495003025"
+},
+{
+"place_id": "demo_0450",
+"name": "Don Tito Fernandez",
+"type": "carniceria",
+"address": "Sarmiento 4192, Lanus",
+"phone": "11-5969-9470",
+"lat": -34.699599,
+"lng": -58.387706,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69959932575178,-58.38770624374828"
+},
+{
+"place_id": "demo_0451",
+"name": "Lavanderia Premium",
+"type": "lavanderia",
+"address": "Calle 9 de Julio 591, Calle",
+"phone": "11-5933-5166",
+"lat": -34.705147,
+"lng": -58.316,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70514667063306,-58.31599965817846"
+},
+{
+"place_id": "demo_0452",
+"name": "La Llave del Centro",
+"type": "ferreteria",
+"address": "Av. Presidente Peron 2211, Av.",
+"phone": "11-6120-7746",
+"lat": -34.702602,
+"lng": -58.321984,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70260174217123,-58.321984121537824"
+},
+{
+"place_id": "demo_0453",
+"name": "Mecanica",
+"type": "taller_mecanico",
+"address": "25 de Mayo 1529, Calle",
+"phone": "11-6463-6326",
+"lat": -34.659326,
+"lng": -58.363369,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65932631416025,-58.363368834390826"
+},
+{
+"place_id": "demo_0454",
+"name": "Boutique Plus",
+"type": "tienda_ropa",
+"address": "Moreno 1286, Av.",
+"phone": "11-5755-6527",
+"lat": -34.698703,
+"lng": -58.320637,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69870306759448,-58.32063683859501"
+},
+{
+"place_id": "demo_0455",
+"name": "Optica Fernandez",
+"type": "optica",
+"address": "San Martin 1969, Wilde",
+"phone": "11-6424-5773",
+"lat": -34.703854,
+"lng": -58.310418,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70385379881802,-58.310417587648985"
+},
+{
+"place_id": "demo_0456",
+"name": "Vision del Centro",
+"type": "optica",
+"address": "25 de Mayo 4367, Lanus",
+"phone": "11-2523-3741",
+"lat": -34.702396,
+"lng": -58.396118,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7023964027232,-58.39611753417568"
+},
+{
+"place_id": "demo_0457",
+"name": "El Molino",
+"type": "panaderia",
+"address": "Av. Hipolito Yrigoyen 1825, Lanus",
+"phone": "11-5506-2687",
+"lat": -34.711749,
+"lng": -58.396777,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71174928160682,-58.396776710540685"
+},
+{
+"place_id": "demo_0458",
+"name": "Kiosco Ruiz",
+"type": "kiosco",
+"address": "Las Heras 4392, Avellaneda",
+"phone": "11-4206-5300",
+"lat": -34.654411,
+"lng": -58.365429,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.654411301412736,-58.365429027253576"
+},
+{
+"place_id": "demo_0459",
+"name": "Don Tito del Centro",
+"type": "carniceria",
+"address": "Alsina 2126, Sarandi",
+"phone": "11-6553-3071",
+"lat": -34.691651,
+"lng": -58.335095,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69165101973357,-58.33509456671649"
+},
+{
+"place_id": "demo_0460",
+"name": "El Pie del Centro",
+"type": "zapateria",
+"address": "Alvear 3927, Calle",
+"phone": "11-3378-9987",
+"lat": -34.659615,
+"lng": -58.372714,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65961482221107,-58.372714287069805"
+},
+{
+"place_id": "demo_0461",
+"name": "El Buen Corte",
+"type": "carniceria",
+"address": "Mariano Acosta 3840, Wilde",
+"phone": "11-3545-9576",
+"lat": -34.697487,
+"lng": -58.312838,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69748732376713,-58.31283803396949"
+},
+{
+"place_id": "demo_0462",
+"name": "Arco Iris 13",
+"type": "jugueteria",
+"address": "Moreno 2622, Sarandi",
+"phone": "11-6522-5256",
+"lat": -34.688045,
+"lng": -58.344445,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68804541875018,-58.344445307197375"
+},
+{
+"place_id": "demo_0463",
+"name": "Salud del Centro",
+"type": "farmacia",
+"address": "Rivadavia 3943, Calle",
+"phone": "11-3108-9059",
+"lat": -34.667894,
+"lng": -58.367767,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66789444181322,-58.36776683759575"
+},
+{
+"place_id": "demo_0464",
+"name": "Farmacity local",
+"type": "farmacia",
+"address": "Alsina 159, Av.",
+"phone": "11-3482-4089",
+"lat": -34.70789,
+"lng": -58.320835,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.707890408805085,-58.32083477624077"
+},
+{
+"place_id": "demo_0465",
+"name": "Arco Iris",
+"type": "jugueteria",
+"address": "Las Heras 3199, Wilde",
+"phone": "11-5369-2297",
+"lat": -34.706006,
+"lng": -58.320002,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70600629813733,-58.320001662115665"
+},
+{
+"place_id": "demo_0466",
+"name": "Mocca",
+"type": "cafeteria",
+"address": "Colon 2432, Wilde",
+"phone": "11-3928-5404",
+"lat": -34.704734,
+"lng": -58.311201,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70473423901027,-58.31120065487505"
+},
+{
+"place_id": "demo_0467",
+"name": "Bodegon Alvarez",
+"type": "restaurante",
+"address": "Moreno 3809, Wilde",
+"phone": "11-6817-9060",
+"lat": -34.699344,
+"lng": -58.321081,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.699344287625735,-58.32108148513596"
+},
+{
+"place_id": "demo_0468",
+"name": "Lavanderia 15",
+"type": "lavanderia",
+"address": "Rivadavia 2305, Lanus",
+"phone": "11-5832-8183",
+"lat": -34.713651,
+"lng": -58.400107,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71365088284955,-58.40010662269999"
+},
+{
+"place_id": "demo_0469",
+"name": "Cafeteria del Centro",
+"type": "cafeteria",
+"address": "Sarmiento 2652, Avellaneda",
+"phone": "11-2480-8597",
+"lat": -34.667957,
+"lng": -58.372764,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66795684826962,-58.372764402449896"
+},
+{
+"place_id": "demo_0470",
+"name": "Clean Martinez",
+"type": "lavanderia",
+"address": "Las Heras 684, Avellaneda",
+"phone": "11-3581-3975",
+"lat": -34.668116,
+"lng": -58.360991,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66811643044429,-58.360990886694"
+},
+{
+"place_id": "demo_0471",
+"name": "Libreria",
+"type": "libreria",
+"address": "Alsina 3252, Lanus",
+"phone": "11-2353-1549",
+"lat": -34.699289,
+"lng": -58.386091,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.699289486968006,-58.386091463146904"
+},
+{
+"place_id": "demo_0472",
+"name": "Gimnasio Total",
+"type": "gimnasio",
+"address": "Rivadavia 2746, Lanus",
+"phone": "11-5744-1691",
+"lat": -34.700764,
+"lng": -58.399309,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70076418997438,-58.39930871452853"
+},
+{
+"place_id": "demo_0473",
+"name": "El Pie 48",
+"type": "zapateria",
+"address": "Av. Belgrano 1884, Calle",
+"phone": "11-4341-8113",
+"lat": -34.711779,
+"lng": -58.314188,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.711778584878644,-58.31418770406853"
+},
+{
+"place_id": "demo_0474",
+"name": "La Esquina Express",
+"type": "panaderia",
+"address": "Av. Mitre 444, Peatonal",
+"phone": "11-3902-8786",
+"lat": -34.708661,
+"lng": -58.394791,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.708661117148736,-58.39479119964929"
+},
+{
+"place_id": "demo_0475",
+"name": "El Buen Corte Premium",
+"type": "carniceria",
+"address": "Mariano Acosta 2872, Sarandi",
+"phone": "11-4161-6824",
+"lat": -34.687058,
+"lng": -58.348568,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68705762138715,-58.348568321556"
+},
+{
+"place_id": "demo_0476",
+"name": "El Buen Corte Express",
+"type": "carniceria",
+"address": "San Martin 2945, Sarandi",
+"phone": "11-2850-4161",
+"lat": -34.681779,
+"lng": -58.337337,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.68177874975964,-58.337336540090156"
+},
+{
+"place_id": "demo_0477",
+"name": "Inmobiliaria Total",
+"type": "inmobiliaria",
+"address": "Av. Presidente Peron 2514, Avellaneda",
+"phone": "11-3813-9029",
+"lat": -34.663669,
+"lng": -58.370844,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.663669320043994,-58.370844285219825"
+},
+{
+"place_id": "demo_0478",
+"name": "Can y Gato del Centro",
+"type": "pet_shop",
+"address": "Mariano Acosta 1413, Lanus",
+"phone": "11-4643-3539",
+"lat": -34.710641,
+"lng": -58.394742,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.71064071887891,-58.394742035777675"
+},
+{
+"place_id": "demo_0479",
+"name": "La Farmacia del barrio Ruiz",
+"type": "farmacia",
+"address": "Pueyrredon 3205, Wilde",
+"phone": "11-5119-6965",
+"lat": -34.699889,
+"lng": -58.315334,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.699889303176,-58.31533430476581"
+},
+{
+"place_id": "demo_0480",
+"name": "Mocca Express",
+"type": "cafeteria",
+"address": "Pueyrredon 4175, Sarandi",
+"phone": "11-3257-5638",
+"lat": -34.687869,
+"lng": -58.348987,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.687868894491075,-58.34898653189441"
+},
+{
+"place_id": "demo_0481",
+"name": "Estetica Benitez",
+"type": "estetica",
+"address": "Av. Las Flores 1563, Peatonal",
+"phone": "11-4306-2753",
+"lat": -34.704873,
+"lng": -58.396116,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70487276856172,-58.396116286927686"
+},
+{
+"place_id": "demo_0482",
+"name": "Sabor Total",
+"type": "restaurante",
+"address": "Pueyrredon 2196, Av.",
+"phone": "11-4475-4616",
+"lat": -34.706815,
+"lng": -58.319148,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.706814956960216,-58.31914785382374"
+},
+{
+"place_id": "demo_0483",
+"name": "Mini Romero",
+"type": "kiosco",
+"address": "Av. Belgrano 3056, Sarandi",
+"phone": "11-3861-7814",
+"lat": -34.692791,
+"lng": -58.335263,
+"zones": [
+"Sarandi"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69279062224267,-58.33526343665019"
+},
+{
+"place_id": "demo_0484",
+"name": "Peluqueria",
+"type": "peluqueria",
+"address": "Av. Hipolito Yrigoyen 2589, Wilde",
+"phone": "11-4321-9511",
+"lat": -34.699822,
+"lng": -58.319747,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69982171253956,-58.31974694984805"
+},
+{
+"place_id": "demo_0485",
+"name": "El Tornillo 69",
+"type": "ferreteria",
+"address": "Alsina 1565, Avellaneda",
+"phone": "11-3867-7802",
+"lat": -34.657797,
+"lng": -58.364493,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65779724907505,-58.364493423177564"
+},
+{
+"place_id": "demo_0486",
+"name": "Can y Gato Fernandez",
+"type": "pet_shop",
+"address": "Calle 9 de Julio 3389, Avellaneda",
+"phone": "11-3445-3591",
+"lat": -34.663673,
+"lng": -58.36566,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.663672586146056,-58.36566047052115"
+},
+{
+"place_id": "demo_0487",
+"name": "Vision",
+"type": "optica",
+"address": "San Martin 3145, Calle",
+"phone": "11-2882-8054",
+"lat": -34.70857,
+"lng": -58.315477,
+"zones": [
+"Calle Fabian Onsari"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70856987830002,-58.3154767592473"
+},
+{
+"place_id": "demo_0488",
+"name": "Vision",
+"type": "optica",
+"address": "Colon 3049, Peatonal",
+"phone": "11-2558-7505",
+"lat": -34.708074,
+"lng": -58.392635,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.7080742195509,-58.392634990083344"
+},
+{
+"place_id": "demo_0489",
+"name": "Salon 40",
+"type": "peluqueria",
+"address": "Av. Mitre 2560, Avellaneda",
+"phone": "11-5319-6159",
+"lat": -34.653673,
+"lng": -58.363468,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65367269646114,-58.363467794774024"
+},
+{
+"place_id": "demo_0490",
+"name": "Utiles y Mas",
+"type": "libreria",
+"address": "Av. Las Flores 872, Avellaneda",
+"phone": "11-4571-6827",
+"lat": -34.654694,
+"lng": -58.36482,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.654694206672474,-58.36481965618655"
+},
+{
+"place_id": "demo_0491",
+"name": "El Buen Corte 34",
+"type": "carniceria",
+"address": "Rivadavia 852, Calle",
+"phone": "11-3509-4562",
+"lat": -34.66535,
+"lng": -58.364104,
+"zones": [
+"Calle Iberlucea"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.6653501182074,-58.364103746475124"
+},
+{
+"place_id": "demo_0492",
+"name": "Lavanderia",
+"type": "lavanderia",
+"address": "Rivadavia 406, Avellaneda",
+"phone": "11-3490-2285",
+"lat": -34.656714,
+"lng": -58.370234,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.65671353289097,-58.3702335601463"
+},
+{
+"place_id": "demo_0493",
+"name": "Burbuja Benitez",
+"type": "lavanderia",
+"address": "Alsina 193, Avellaneda",
+"phone": "11-2155-5993",
+"lat": -34.663833,
+"lng": -58.359926,
+"zones": [
+"Avellaneda Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.66383311668876,-58.359925732799255"
+},
+{
+"place_id": "demo_0494",
+"name": "Ale",
+"type": "peluqueria",
+"address": "Alsina 1354, Av.",
+"phone": "11-4789-7436",
+"lat": -34.704168,
+"lng": -58.319221,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70416820151747,-58.31922104527209"
+},
+{
+"place_id": "demo_0495",
+"name": "Vision del Centro",
+"type": "optica",
+"address": "Las Heras 1312, Wilde",
+"phone": "11-5444-2352",
+"lat": -34.703796,
+"lng": -58.322559,
+"zones": [
+"Wilde Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.703795922338394,-58.322558672759286"
+},
+{
+"place_id": "demo_0496",
+"name": "Mascotas Sanchez",
+"type": "pet_shop",
+"address": "Pueyrredon 3659, Av.",
+"phone": "11-5880-3209",
+"lat": -34.699056,
+"lng": -58.319422,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.69905621954358,-58.31942217113979"
+},
+{
+"place_id": "demo_0497",
+"name": "Arco Iris 73",
+"type": "jugueteria",
+"address": "Mariano Acosta 4394, Av.",
+"phone": "11-5348-2173",
+"lat": -34.705623,
+"lng": -58.321256,
+"zones": [
+"Av. Las Flores"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.70562269766737,-58.32125617435703"
+},
+{
+"place_id": "demo_0498",
+"name": "Estetica Alvarez",
+"type": "estetica",
+"address": "Sarmiento 3569, Lanus",
+"phone": "11-6456-4120",
+"lat": -34.708179,
+"lng": -58.384366,
+"zones": [
+"Lanus Centro"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.708178590459184,-58.384365514543894"
+},
+{
+"place_id": "demo_0499",
+"name": "AutoFix 46",
+"type": "taller_mecanico",
+"address": "Mariano Acosta 3722, Peatonal",
+"phone": "11-3249-8216",
+"lat": -34.705249,
+"lng": -58.396806,
+"zones": [
+"Peatonal 9 de Julio"
+],
+"google_maps": "https://www.google.com/maps/search/?api=1&query=-34.705248982807674,-58.39680634535732"
+}
+]
