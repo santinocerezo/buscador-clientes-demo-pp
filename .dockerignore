@@ -1,0 +1,12 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+.venv
+.vscode
+.idea
+README.md
+generate_data.py
+Dockerfile
+.dockerignore
+railway.toml
